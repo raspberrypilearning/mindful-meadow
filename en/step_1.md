@@ -29,10 +29,6 @@ title: What you will need
 
 + Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
 
-### Downloads
-
-+ [rpf.io/mindful-meadow](http://rpf.io/p/mindful-meadow){:target="_blank"}
-
 --- /collapse ---
 
 --- collapse ---
