@@ -55,7 +55,7 @@ At the moment, flowers will appear all over the stage, so some look like they're
 
 Add these blocks to keep moving the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
 
-```blocks
+```blocks3
 when I start as a clone
 go to (random position v)
 + repeat until <(y position) < (-60)>
@@ -70,7 +70,7 @@ The flowers look a little dull at the moment, as they are all the same size and 
 
 Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, using a `pick random`{:class="block3operators"} block.
 
-```blocks
+```blocks3
 when I start as a clone
 go to (random position v)
 repeat until <(y position) < (-60)>
@@ -83,7 +83,7 @@ go to (random position v)
 
 You can now play around with the numbers a little to get different sizes, color effects and numbers of flowers.
 
-You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits.
+You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
 
 
 
