@@ -14,7 +14,7 @@ Click the green flag and then move the slider to adjust how many flowers you wan
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![Complete project](images/banner.png)
 --- /print-only ---
 
 --- collapse ---
@@ -31,7 +31,7 @@ title: What you will need
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/p/mindful-meadow){:target="_blank"}
++ [rpf.io/mindful-meadow](http://rpf.io/p/mindful-meadow){:target="_blank"}
 
 --- /collapse ---
 
