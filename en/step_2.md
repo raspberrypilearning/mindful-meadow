@@ -2,7 +2,7 @@
 
 --- task ---
 
-Open the starter Scratch project either online at [rpf.io/meadow](https://rpf.io/meadow) or download the starer project at [rpf.io/p/mindful-meadow-on](https://rpf.io/p/mindful-meadow-on)
+Open the starter Scratch project either online at [rpf.io/meadow](https://rpf.io/meadow) or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-on)
 
 --- /task ---
 
