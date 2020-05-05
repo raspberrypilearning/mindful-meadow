@@ -5,6 +5,7 @@ In this project you will create a peacefull, flower strewn meadow, to gaze at, r
 ### What you will make
 
 --- no-print ---
+
 Click the green flag and then move the slider to adjust the number of flowers.
 
 <div>
@@ -14,13 +15,16 @@ Click the green flag and then move the slider to adjust the number of flowers.
 --- /no-print ---
 
 --- print-only ---
+
 ![Complete project](images/banner.png)
+
 --- /print-only ---
 
 --- collapse ---
 ---
 title: What you will need
 ---
+
 ### Hardware
 
 - A computer
