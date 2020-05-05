@@ -23,7 +23,7 @@ Click the green flag to see the new size of your flower.
 
 --- task ---
 
-Now we need to generate more flowers. There is a `flowers`{:class="block3variables"} that is controlled by the slider on the stage, that can set the number of flowers. You can use the blocks below to create clones of your flower.
+Now we need to generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the stage. It can set the number of flowers. You can use the blocks below to create clones of your flower.
 
 ```blocks3
 when flag clicked
@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-The flowers look a little dull at the moment, as they are all the same size and the same colour. We can use a random number generator block to fix this though.
+The flowers look a little dull currently, as they are all the same size and the same colour. We can use a random number generator block to fix this though.
 
 --- task ---
 
