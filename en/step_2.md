@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-The flowers look a little dull at the moment, as they are all the same size and the same colour. We can use a random number generator block to fix this though.
+The flowers look a little dull currently, as they are all the same size and the same colour. We can use a random number generator block to fix this though.
 
 --- task ---
 
