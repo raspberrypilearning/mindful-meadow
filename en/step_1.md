@@ -7,6 +7,7 @@ In this project you will create a peacefull, flower strewn meadow, to gaze at, r
 --- no-print ---
 Click the green flag and then move the slider to adjust the number of flowers.
 
+<div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
