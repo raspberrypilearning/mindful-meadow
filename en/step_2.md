@@ -75,6 +75,7 @@ when I start as a clone
 go to (random position v)
 repeat until <(y position) < (-60)>
 go to (random position v)
+end
 + change size by (pick random (-10) to (10)
 + change (color v) effect by (pick random (1) to (100))
 ```
