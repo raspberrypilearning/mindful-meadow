@@ -29,7 +29,7 @@ Jetzt müssen wir mehr Blumen generieren. Es gibt eine `Blumen`{:class="block3va
 when flag clicked
 set size to [5] %
 + repeat (Blumen)
-+ create clone of (myself v)
++ create clone of (mir selbst v)
 ```
 
 --- /task ---
@@ -42,7 +42,7 @@ Wenn ein Klon erstellt wird, sollte dies an einer zufällige Position erfolgen.
 
 ```blocks3
 when I start as a clone
-go to (random position v)
+go to (Zufallsposition v)
 ```
 
 Vergiss nicht, den Schieberegler auf die von dir gewünschte Blumenanzahl einzustellen.
@@ -57,9 +57,9 @@ Füge diese Blöcke hinzu, um die Blumen weiter an eine zufällige Position zu b
 
 ```blocks3
 when I start as a clone
-go to (random position v)
-+ repeat until <(y position) < (-60)>
-+ go to (random position v)
+go to (Zufallsposition v)
++ repeat until <(y-Position) < (-60)>
++ go to (Zufallsposition v)
 ```
 
 --- /task ---

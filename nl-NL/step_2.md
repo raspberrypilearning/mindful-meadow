@@ -29,7 +29,7 @@ Nu moeten we meer bloemen genereren. Er is een `bloemen`{:class="block3variables
 when flag clicked
 set size to [5] %
 + repeat (bloemen)
-+ create clone of (myself v)
++ create clone of (mijzelf v)
 ```
 
 --- /task ---
@@ -42,7 +42,7 @@ Wanneer een kloon wordt gemaakt, moet deze naar een willekeurige positie gaan.
 
 ```blocks3
 when I start as a clone
-go to (random position v)
+go to (willekeurige positie v)
 ```
 
 Vergeet niet de schuifregelaar aan te passen om het aantal gewenste bloemen te wijzigen.
@@ -57,9 +57,9 @@ Voeg deze blokken toe om de bloemen naar een willekeurige positie te laten beweg
 
 ```blocks3
 when I start as a clone
-go to (random position v)
-+ repeat until <(y position) < (-60)>
-+ go to (random position v)
+go to (willekeurige positie v)
++ repeat until <(y-positie) < (-60)>
++ go to (willekeurige positie v)
 ```
 
 --- /task ---
@@ -73,7 +73,7 @@ Voeg deze blokken toe om de `kleur`{:class="block3looks"} en `grootte`{:class="b
 ```blocks3
 when I start as a clone
 go to (willekeurige positie v)
-repeat until <(y positie) < (-60)>
+repeat until <(y-positie) < (-60)>
 go to (willekeurige positie v)
 end
 + change size by (pick random (-10) to (10)

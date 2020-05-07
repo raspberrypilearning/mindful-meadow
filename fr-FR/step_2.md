@@ -29,7 +29,7 @@ Nous devons maintenant générer plus de fleurs. Il y a une variable `fleurs`{:c
 when flag clicked
 set size to [5] %
 + repeat (fleurs)
-+ create clone of (myself v)
++ create clone of (moi-même v)
 ```
 
 --- /task ---
@@ -42,7 +42,7 @@ Lorsqu'un clone est créé, il doit aller à une position aléatoire.
 
 ```blocks3
 when I start as a clone
-go to (random position v)
+go to (position aléatoire v)
 ```
 
 N'oublie pas d'ajuster le curseur, pour changer le nombre de fleurs que tu veux.
@@ -57,9 +57,9 @@ Ajoute ces blocs pour continuer à déplacer les fleurs à une position aléatoi
 
 ```blocks3
 when I start as a clone
-go to (random position v)
-+ repeat until <(y position) < (-60)>
-+ go to (random position v)
+go to (position aléatoire v)
++ repeat until <(ordonnée y) < (-60)>
++ go to (position aléatoire v)
 ```
 
 --- /task ---
@@ -72,12 +72,12 @@ Ajoute ces blocs pour changer la `couleur`{:class="block3looks"} et la `taille`{
 
 ```blocks3
 when I start as a clone
-go to (random position v)
-repeat until <(y position) < (-60)>
-go to (random position v)
+go to (position aléatoire v)
+repeat until <(ordonnée y) < (-60)>
+go to (position aléatoire v)
 end
 + change size by (pick random (-10) to (10)
-+ change (color v) effect by (pick random (1) to (100))
++ change (couleur v) effect by (pick random (1) to (100))
 ```
 
 --- /task ---
