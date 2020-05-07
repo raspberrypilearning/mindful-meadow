@@ -1,29 +1,29 @@
-## Create you mindful meadow
+## Erstelle deine Blumenwiese
 
 --- task ---
 
-Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
+Öffne das Scratch Starter-Projekt entweder online unter [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} oder lade das Starter-Projekt unter [rpf.io/p/de/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go) herunter.
 
 --- /task ---
 
-You should see a meadow in a forest, with a single large flower in the middle of the stage. There's also a slider on the stage that will eventually control the number of flowers you see.
+Du solltest eine Wiese im Wald sehen, mit einer einzigen großen Blume in der Mitte der Bühne. Es gibt auch einen Schieberegler auf der Bühne, der später die Anzahl der Blumen steuert, die du sehen wirst.
 
 --- task ---
 
-The flower is a little too large, so the first thing to do is resize it. Add these blocks to the flower sprite.
+Die Blume ist etwas zu groß, daher muss zunächst die Größe geändert werden. Füge diesen Code zum Blumen-Sprite hinzu.
 
 ```blocks3
 when flag clicked
 set size to [5] %
 ```
 
-Click the green flag to see the new size of your flower.
+Klicke auf die grüne Flagge, um die neue Größe deiner Blume zu sehen.
 
 --- /task ---
 
 --- task ---
 
-Now we need to generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the stage. It can set the number of flowers. You can use the blocks below to create clones of your flower.
+Jetzt müssen wir mehr Blumen generieren. Es gibt eine `Blumen`{:class="block3variables"} Variable, die vom Schieberegler auf der Bühne gesteuert wird. Sie bestimmt die Anzahl der Blumen. Mit den folgenden Blöcken kannst du Klone deiner Blume erstellen.
 
 ```blocks3
 when flag clicked
@@ -34,26 +34,26 @@ set size to [5] %
 
 --- /task ---
 
-If you click the green flag, you'll probably not see anything happen. This is because all the clones are created at the same position as the original flower.
+Wenn du auf die grüne Flagge klickst, wird wahrscheinlich nichts passieren. Das liegt daran, dass alle Klone an der gleichen Stelle wie die Originalblume erstellt werden.
 
 --- task ---
 
-When a clone is created, it should go to a random position.
+Wenn ein Klon erstellt wird, sollte dies an einer zufällige Position erfolgen.
 
 ```blocks3
 when I start as a clone
 go to (random position v)
 ```
 
-Don't forget to adjust the slider, to change the number of flowers you want.
+Vergiss nicht, den Schieberegler auf die von dir gewünschte Blumenanzahl einzustellen.
 
 --- /task ---
 
-At the moment, flowers will appear all over the stage, so some look like they're in the sky. This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+Im Moment erscheinen Blumen auf der ganzen Bühne, so dass einige so aussehen, als wären sie im Himmel. Dies kann behoben werden, indem sichergestellt wird, dass die `y`{:class="block3motion"} Position der Blumen immer unterhalb des großen Felsen liegt.
 
 --- task ---
 
-Add these blocks to keep moving the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
+Füge diese Blöcke hinzu, um die Blumen weiter an eine zufällige Position zu bewegen, bis sie unter `-60`{:class="block3motion"} auf der `y`{:class="block3motion"} Achse liegt.
 
 ```blocks3
 when I start as a clone
@@ -64,27 +64,27 @@ go to (random position v)
 
 --- /task ---
 
-The flowers look a little dull currently, as they are all the same size and the same colour. We can use a random number generator block to fix this though.
+Die Blumen sehen im Moment etwas langweilig aus, da sie alle die gleiche Größe und Farbe haben. Wir können jedoch einen Generatorblock für Zufallszahlen verwenden, um dies zu beheben.
 
 --- task ---
 
-Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, using a `pick random`{:class="block3operators"} block.
+Füge diese Blöcke hinzu, um die `Farbe`{:class="block3looks"} und `Größe`{:class="block3looks"} der Blumen zu ändern, indem du einen `Zufallszahl von bis`{:class="block3operators"} Block benutzt.
 
 ```blocks3
-when I start as a clone
-go to (random position v)
-repeat until <(y position) < (-60)>
-go to (random position v)
+Wenn ich als Klon entstehe
+gehe zu (Zufallsposition v)
+wiederhole bis <(y-Position) < (-60)>
+gehe zu (Zufallsposition v)
 end
-+ change size by (pick random (-10) to (10)
-+ change (color v) effect by (pick random (1) to (100))
++ ändere Größe um (Zufallszahl von (-10) bis (10)
++ ändere Effekt (Farbe v) um (Zufallszahl von (1) bis (100))
 ```
 
 --- /task ---
 
-You can now play around with the numbers a little to get different sizes, color effects and numbers of flowers.
+Du kannst jetzt ein wenig mit den Zahlen herumspielen, um verschiedene Größen, Farbeffekte und Blumenzahlen zu erhalten.
 
-You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
+Vielleicht möchtest du deiner Wiese noch ein paar Dinge mehr hinzufügen. Wie wäre es, Bienen oder ein paar zufällige Kaninchen hinzuzufügen? Oder ändere den Hintergrund in einen Nachthimmel und füge Sterne und Planeten anstelle von Blumen hinzu.
 
 
 
