@@ -1,12 +1,12 @@
-## Introduction
+## Inleiding
 
-In this project you will create a peacefull, flower strewn meadow, to gaze at, relax and chill.
+In dit project maak je een vreedzame, met bloemen bezaaide weide, om naar te kijken, te ontspannen en te chillen.
 
-### What you will make
+### Wat ga je maken
 
 --- no-print ---
 
-Click the green flag and then move the slider to adjust the number of flowers.
+Klik op de groene vlag en verplaats de schuifregelaar om het aantal bloemen aan te passen.
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -16,41 +16,41 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- print-only ---
 
-![Complete project](images/banner.png)
+![Voltooid project](images/banner.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Wat heb je nodig
 ---
 
 ### Hardware
 
-- A computer
+- Een computer
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3 (of [online](http://rpf.io/scratchon) of [offline](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-- How to use random numbers in your projects
+- Hoe je willekeurige getallen gebruikt in je projecten
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Aanvullende informatie voor docenten
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+[ Hier is een link naar de bronnen voor dit project ](http://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
