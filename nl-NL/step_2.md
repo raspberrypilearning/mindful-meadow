@@ -71,13 +71,13 @@ De bloemen zien er op dit moment een beetje saai uit, omdat ze allemaal dezelfde
 Voeg deze blokken toe om de `kleur`{:class="block3looks"} en `grootte`{:class="block3looks"} van de bloemen te veranderen, met behulp van een `kies willekeurig`{:class="block3operators"} blok.
 
 ```blocks3
-wanneer ik als kloon start
-ga naar (willekeurige positie v)
-herhaal tot <(y positie) < (-60)>
-ga naar (willekeurige positie v)
+when I start as a clone
+go to (willekeurige positie v)
+repeat until <(y positie) < (-60)>
+go to (willekeurige positie v)
 end
-+ verander grootte met (willekeurig getal tussen (-10) en (10))
-+ verander (kleur v) effect met (willekeurig getal tussen (1) en (100))
++ change size by (pick random (-10) to (10)
++ change (kleur v) effect by (pick random (1) to (100))
 ```
 
 --- /task ---
