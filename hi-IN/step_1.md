@@ -1,4 +1,4 @@
-## Introduction
+## परिचय
 
 इस प्रोजेक्ट में आप एक शांतिमय, फूल से भरा हुआ बगीचा बनाएंगे जिसे आप देखे तो आपको आराम मिले |
 
@@ -49,7 +49,7 @@ title: आप क्या सीखेंगे
 title: शिक्षकों के लिए अतिरिक्त जानकारी
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_ blank"} का प्रयोग करें।
 
 [इस प्रोजेक्ट के संसाधनों के लिए यहाँ लिंक है](http://rpf.io/p/en/mindful-meadow-get)|
 
