@@ -16,41 +16,41 @@
 
 --- print-only ---
 
-![Complete project](images/banner.png)
+![المشروع كامل](images/banner.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: ما ستحتاج إليه
 ---
 
-### Hardware
+### الأجهزة
 
-- A computer
+- جهاز الكمبيوتر
 
-### Software
+### البرامج
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ برنامج Scratch 3 (سواء كان [متصل بالإنترنت](http://rpf.io/scratchon) أو [دون إتصال بالإنترنت](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: ما الذي سوف تتعلمه
 ---
 
-- How to use random numbers in your projects
+- كيفية استخدام أرقام عشوائية في مشاريعك
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: معلومات إضافية للمعلمين
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+[إليك رابط إلى مصادر هذا المشروع](http://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
