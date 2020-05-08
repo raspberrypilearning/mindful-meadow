@@ -1,12 +1,12 @@
-## Introduction
+## المقدمة
 
-In this project you will create a peacefull, flower strewn meadow, to gaze at, relax and chill.
+في هذا المشروع، سوف تقوم بأنشاء مرج مليء بالزهور، ينعم بالهدوء واجواء للأسترخاء.
 
-### What you will make
+### ما الذي سوف تصنعه
 
 --- no-print ---
 
-Click the green flag and then move the slider to adjust the number of flowers.
+انقر فوق العلم الأخضر ثم قم بنقل شريط التمرير لضبط عدد الزهور.
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
