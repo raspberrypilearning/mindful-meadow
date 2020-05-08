@@ -1,12 +1,12 @@
 ## Introduction
 
-In this project you will create a peacefull, flower strewn meadow, to gaze at, relax and chill.
+इस प्रोजेक्ट में आप एक शांतिमय, फूल से भरा हुआ बगीचा बनाएंगे जिसे आप देखे तो आपको आराम मिले |
 
-### What you will make
+### आप क्या बनाएँगे
 
 --- no-print ---
 
-Click the green flag and then move the slider to adjust the number of flowers.
+हरे झंडे पर क्लिक करें और फिर स्लाइडर (slider) को हिलाकर फूलों की संख्या को तय करें।
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -22,35 +22,35 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- collapse ---
 ---
-title: What you will need
+title: आपको किन चीजों की आवश्यकता होगी
 ---
 
-### Hardware
+### हार्डवेयर
 
-- A computer
+- एक कंप्यूटर
 
-### Software
+### सॉफ्टवेयर
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3 ([ऑनलाइन](http://rpf.io/scratchon) या [ऑफ़लाइन](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: आप क्या सीखेंगे
 ---
 
-- How to use random numbers in your projects
+- अपने प्रोजेक्ट्स में यादृच्छिक (random) संख्याओं का उपयोग कैसे करते हैं
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: शिक्षकों के लिए अतिरिक्त जानकारी
 ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+[इस प्रोजेक्ट के संसाधनों के लिए यहाँ लिंक है](http://rpf.io/p/en/mindful-meadow-get)|
 
 --- /collapse ---
