@@ -1,29 +1,29 @@
-## Create you mindful meadow
+## أنشيء مرج أخضر خاص بك
 
 --- task ---
 
-Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
+افتح مشروع Scratch إما على الإنترنت في [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} أو قم بتحميل المشروع على [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
 
 --- /task ---
 
-You should see a meadow in a forest, with a single large flower in the middle of the stage. There's also a slider on the stage that will eventually control the number of flowers you see.
+يجب أن ترى مرج في غابة، مع زهرة واحدة كبيرة في منتصف المنصة. هناك أيضا شريط تمرير على المنصة الذي سيتحكم في نهاية المطاف بعدد الزهور التي تراها.
 
 --- task ---
 
-The flower is a little too large, so the first thing to do is resize it. Add these blocks to the flower sprite.
+الزهرة كبيرة جداً، لذا فإن أول شيء عليك فعله هو تغيير حجمها. أضف هذه التعليمات البرمجية إلى الزهرة.
 
 ```blocks3
 when flag clicked
 set size to [5] %
 ```
 
-Click the green flag to see the new size of your flower.
+انقر على العلم الأخضر لرؤية الحجم الجديد للزهرة.
 
 --- /task ---
 
 --- task ---
 
-Now we need to generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the stage. It can set the number of flowers. You can use the blocks below to create clones of your flower.
+الآن نحن بحاجة إلى أنشاء المزيد من الزهور. هناك متغير `زهور `{:class="block3variables"} الذي يتحكم به شريط التمرير على المنصة. يمكنها أن تحدد عدد الزهور. يمكنك استخدام الكتل أدناه لإنشاء نسخ للزهرة.
 
 ```blocks3
 when flag clicked
@@ -34,22 +34,22 @@ set size to [5] %
 
 --- /task ---
 
-If you click the green flag, you'll probably not see anything happen. This is because all the clones are created at the same position as the original flower.
+إذا قمت بالنقر على العلم الأخضر، ربما لن ترى أي شيء يحدث. لأن جميع النسخ يتم إنشاؤها في نفس الموضع الذي تم فيه إنشاء الزهرة الأصلية.
 
 --- task ---
 
-When a clone is created, it should go to a random position.
+عندما يتم إنشاء نسخة، يجب أن يذهب إلى وضع عشوائي.
 
 ```blocks3
 when I start as a clone
 go to (random position v)
 ```
 
-Don't forget to adjust the slider, to change the number of flowers you want.
+لا تنسى ضبط شريط التمرير، لتغيير عدد الزهور التي تريدها.
 
 --- /task ---
 
-At the moment, flowers will appear all over the stage, so some look like they're in the sky. This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+في الوقت الحالي، ستظهر الزهور في جميع أنحاء المنصة، لذا تبدو بعض الزهور وكأنها في السماء. يمكن إصلاح هذا عن طريق التأكد من أن موقع `ص`{:class="block3motion"} للزهور دائما اسفل الصخرة الكبيرة.
 
 --- task ---
 
@@ -64,11 +64,11 @@ go to (random position v)
 
 --- /task ---
 
-The flowers look a little dull currently, as they are all the same size and the same colour. We can use a random number generator block to fix this though.
+تبدو الأزهار مملة بعض الشيء في الوقت الحالي، لأنها جميعها بنفس الحجم ونفس اللون. يمكننا استخدام كتلة مولد ألأرقام العشوائي لإصلاح هذا الامر.
 
 --- task ---
 
-Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, using a `pick random`{:class="block3operators"} block.
+أضف هذه الكتل لتغيير اللون `color`{:class="block3looks"} و `الحجم`{:class="block3looks"} من الزهور باستخدام كتلة `عدد عشوائي بين`{:class="block3operators"}.
 
 ```blocks3
 when I start as a clone
@@ -82,9 +82,9 @@ end
 
 --- /task ---
 
-You can now play around with the numbers a little to get different sizes, color effects and numbers of flowers.
+يمكنك الآن تغيير الأعداد قليلاً للحصول على أحجام مختلفة وتأثير الألوان وأعداد الزهور.
 
-You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
+قد ترغب أيضًا في إضافة بعض الأشياء الأخرى إلى المرج الخاص بك. ماذا عن إضافة بعض النحل أو بعض الأرانب العشوائية. أو حتى تغيير الخلفية إلى سماء الليل وإضافة النجوم والكواكب بدلاً من الزهور.
 
 
 
