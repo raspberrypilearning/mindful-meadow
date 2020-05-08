@@ -1,7 +1,7 @@
 ---
-title: Mindful Meadow
+title: Το λιβάδι της ηρεμίας
 hero_image: images/banner.png
-description: mindful-meadow description
+description: Περιγραφή του λιβαδιού της ηρεμίας
 version: 4
 listed: false
 copyedit: false
@@ -10,5 +10,5 @@ steps:
   - 
     title: Εισαγωγή
   - 
-    title: Create your meadow
+    title: Δημιούργησε το λιβάδι σου
 
