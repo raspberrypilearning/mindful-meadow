@@ -10,20 +10,20 @@
 
 --- task ---
 
-The flower is a little too large, so the first thing to do is resize it. このブロックを花のスプライトに追加 (ついか) します。
+花は少し大きすぎるので、まずサイズをかえます。 このブロックを花のスプライトに追加 (ついか) します。
 
 ```blocks3
 when flag clicked
 set size to [5] %
 ```
 
-緑のフラグをクリックすると、花のサイズがかわります。
+緑の旗をクリックすると、花のサイズがかわります。
 
 --- /task ---
 
 --- task ---
 
-次に、もっとたくさんの花をさかせましょう。 ステージ上に、スライダーで調整できる`お花の数`{:class="block3variables"}という変数 (へんすう) があります。 花の数を決めることができます。 You can use the blocks below to create clones of your flower.
+次に、もっとたくさんの花をさかせましょう。 ステージ上に、スライダーで調整できる`お花の数`{:class="block3variables"}という変数 (へんすう) があります。 スライダーを使って花の数を決めることができます。 このブロックを使うと、花のクローンを作成 (さくせい) できます。
 
 ```blocks3
 when flag clicked
@@ -34,22 +34,22 @@ set size to [5] %
 
 --- /task ---
 
-緑の旗をクリックしても、おそらく何も起こりません。 This is because all the clones are created at the same position as the original flower.
+緑の旗をクリックしても、おそらく何も起こりません。 これは、すべてのクローンが元の花と同じ位置 (いち) に作成されるためです。
 
 --- task ---
 
-When a clone is created, it should go to a random position.
+クローンが作成されるとき、花がランダムな位置に移動 (いどう) するようにします。
 
 ```blocks3
 when I start as a clone
 go to (random position v)
 ```
 
-Don't forget to adjust the slider, to change the number of flowers you want.
+スライダーを調整して、好きな花の数にかえることをわすれないでください。
 
 --- /task ---
 
-At the moment, flowers will appear all over the stage, so some look like they're in the sky. This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+今のところ花がステージ全体にさくので、空にうかんでいるように見えるものもあります。 This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
