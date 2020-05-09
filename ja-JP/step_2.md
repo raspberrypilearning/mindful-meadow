@@ -68,7 +68,7 @@ go to (random position v)
 
 --- task ---
 
-Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, using a `pick random`{:class="block3operators"} block.
+以下のブロックを追加して、花の`色`{:class="block3looks"}と`大きさ`{:class="block3looks"}を、`(1)から(10)までの乱数`{:class="block3operators"}ブロックを使ってかえます。
 
 ```blocks3
 when I start as a clone
