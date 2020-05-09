@@ -49,11 +49,11 @@ go to (random position v)
 
 --- /task ---
 
-今のところ花がステージ全体にさくので、空にうかんでいるように見えるものもあります。 This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+今のところ花がステージ全体にさくので、空にうかんでいるように見えるものもあります。 この問題は花の`y`{:class="block3motion"}の位置を常に大きな岩より低くすることで、かいけつできます。
 
 --- task ---
 
-Add these blocks to keep moving the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
+このブロックを追加すると、花の位置が`y`{:class="block3motion"}軸 (じく) 上で`-60`{:class="block3motion"}より下になるまで、ランダムな位置に移動しつづけます 。
 
 ```blocks3
 when I start as a clone
