@@ -6,11 +6,11 @@ Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https
 
 --- /task ---
 
-You should see a meadow in a forest, with a single large flower in the middle of the stage. There's also a slider on the stage that will eventually control the number of flowers you see.
+You should see a meadow in a forest, with a single large flower in the middle of the stage. Há também um controle deslizante no palco que controlará o número de flores que você vê.
 
 --- task ---
 
-The flower is a little too large, so the first thing to do is resize it. Add these blocks to the flower sprite.
+A flor é um pouco grande demais, então a primeira coisa a fazer é redimensioná-la. Add these blocks to the flower sprite.
 
 ```blocks3
 when flag clicked
