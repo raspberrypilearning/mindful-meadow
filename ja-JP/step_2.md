@@ -2,15 +2,15 @@
 
 --- task ---
 
-Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
+[rpf.io/dm-meadow-start ](https://rpf.io/dm-meadow-start){:target="_blank"}から基本 (きほん) の Scratch プロジェクトを開きます。または[rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)から基本のプロジェクトをダウンロードします。
 
 --- /task ---
 
-You should see a meadow in a forest, with a single large flower in the middle of the stage. There's also a slider on the stage that will eventually control the number of flowers you see.
+森の中の草原の真ん中に大きな花が1つあります。 ステージには、表示 (ひょうじ) される花の数をあとで調整するスライダーもあります。
 
 --- task ---
 
-The flower is a little too large, so the first thing to do is resize it. Add these blocks to the flower sprite.
+The flower is a little too large, so the first thing to do is resize it. このブロックを花のスプライトに追加 (ついか) します。
 
 ```blocks3
 when flag clicked
