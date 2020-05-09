@@ -6,7 +6,7 @@ In this project you will create a peacefull, flower strewn meadow, to gaze at, r
 
 --- no-print ---
 
-Click the green flag and then move the slider to adjust the number of flowers.
+Clique na bandeira verde e mova o controle deslizante para ajustar o número de flores.
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ title: What you will need
 
 ### Hardware
 
-- A computer
+- Um computador
 
 ### Software
 
