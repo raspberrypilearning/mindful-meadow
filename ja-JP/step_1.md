@@ -1,12 +1,12 @@
-## Introduction
+## はじめに
 
 In this project you will create a peacefull, flower strewn meadow, to gaze at, relax and chill.
 
-### What you will make
+### 作るもの
 
 --- no-print ---
 
-Click the green flag and then move the slider to adjust the number of flowers.
+緑の旗 (はた) をクリックし、スライダーを動かしてお花の数を調整します。
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -16,41 +16,41 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- print-only ---
 
-![Complete project](images/banner.png)
+![完成 (かんせい) したプロジェクト](images/banner.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: 必要 (ひつよう) なもの
 ---
 
-### Hardware
+### ハードウェア
 
 - A computer
 
-### Software
+### ソフトウェア
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-- How to use random numbers in your projects
++ Scratch 3 ([オンライン](http://rpf.io/scratchon)または[オフライン](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 学ぶこと
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+- プロジェクトで乱数 (らんすう) を使用する方法
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+--- /collapse ---
+
+--- collapse ---
+---
+title: 教育者向けの追加情報
+---
+
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_ blank"}を使用してください。
+
+[このプロジェクトのリソースへのリンクはこちらです](http://rpf.io/p/en/mindful-meadow-get) 。
 
 --- /collapse ---
