@@ -71,18 +71,18 @@ go to (random position v)
 以下のブロックを追加して、花の`色`{:class="block3looks"}と`大きさ`{:class="block3looks"}を、`(1)から(10)までの乱数`{:class="block3operators"}ブロックを使ってかえます。
 
 ```blocks3
-when I start as a clone
-go to (random position v)
-repeat until <(y position) < (-60)>
-go to (random position v)
+クローンされたとき
+(どこかの場所 v)へ行く
+<(y座標) < (-60)> ま で繰り返す
+(どこかの場所 v)へ行く
 end
-+ change size by (pick random (-10) to (10)
-+ change (color v) effect by (pick random (1) to (100))
++ 大きさを ((-10)から(10)までの乱数) ずつ変える
++ (色 v)の効果を((1)から(100)まで の乱数)ずつ変える      
 ```
 
 --- /task ---
 
-You can now play around with the numbers a little to get different sizes, color effects and numbers of flowers.
+これで少し数字をいじくって、花の大きさや色、数をかえられるようになりました。
 
 You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
 
