@@ -84,7 +84,7 @@ end
 
 これで少し数字をいじくって、花の大きさや色、数をかえられるようになりました。
 
-You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
+草原に何かを追加するのもいいでしょう。 ミツバチやたまに出てくるウサギなどはどうでしょうか？ 背景 (はいけい) を夜空にかえて、花のかわりに星や惑星 (わくせい) を追加するのもいいですね。
 
 
 
