@@ -1,8 +1,8 @@
-## Introduction
+## Introdução
 
 In this project you will create a peacefull, flower strewn meadow, to gaze at, relax and chill.
 
-### What you will make
+### O que você vai fazer
 
 --- no-print ---
 
@@ -16,7 +16,7 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- print-only ---
 
-![Complete project](images/banner.png)
+![Projeto concluído](images/banner.png)
 
 --- /print-only ---
 
@@ -40,7 +40,7 @@ title: What you will need
 title: What you will learn
 ---
 
-- How to use random numbers in your projects
+- Como usar números aleatórios em seus projetos
 
 --- /collapse ---
 
