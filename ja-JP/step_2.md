@@ -17,13 +17,13 @@ when flag clicked
 set size to [5] %
 ```
 
-Click the green flag to see the new size of your flower.
+緑のフラグをクリックすると、花のサイズがかわります。
 
 --- /task ---
 
 --- task ---
 
-Now we need to generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the stage. It can set the number of flowers. You can use the blocks below to create clones of your flower.
+次に、もっとたくさんの花をさかせましょう。 ステージ上に、スライダーで調整できる`お花の数`{:class="block3variables"}という変数 (へんすう) があります。 花の数を決めることができます。 You can use the blocks below to create clones of your flower.
 
 ```blocks3
 when flag clicked
@@ -34,7 +34,7 @@ set size to [5] %
 
 --- /task ---
 
-If you click the green flag, you'll probably not see anything happen. This is because all the clones are created at the same position as the original flower.
+緑の旗をクリックしても、おそらく何も起こりません。 This is because all the clones are created at the same position as the original flower.
 
 --- task ---
 
