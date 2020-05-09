@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-The flowers look a little dull currently, as they are all the same size and the same colour. We can use a random number generator block to fix this though.
+花はすべて同じサイズかつ同じ色なので、今は少しつまらなく見えます。 でも乱数 (らんすう) 発生ブロックを使えば、もっと楽しくなります。
 
 --- task ---
 
