@@ -23,7 +23,7 @@ Click the green flag to see the new size of your flower.
 
 --- task ---
 
-Now we need to generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the stage. It can set the number of flowers. You can use the blocks below to create clones of your flower.
+Agora precisamos criar mais flores. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the stage. It can set the number of flowers. You can use the blocks below to create clones of your flower.
 
 ```blocks3
 when flag clicked
@@ -34,11 +34,11 @@ set size to [5] %
 
 --- /task ---
 
-If you click the green flag, you'll probably not see anything happen. This is because all the clones are created at the same position as the original flower.
+Se você clicar na bandeira verde, provavelmente você não verá nada acontecer. Isso porque todos os clones são criados na mesma posição que a flor original.
 
 --- task ---
 
-When a clone is created, it should go to a random position.
+Quando um clone é criado, ele deve ir para uma posição aleatória.
 
 ```blocks3
 when I start as a clone
@@ -49,7 +49,7 @@ Don't forget to adjust the slider, to change the number of flowers you want.
 
 --- /task ---
 
-At the moment, flowers will appear all over the stage, so some look like they're in the sky. This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+No momento, as flores aparecerão ao longo do palco, então algumas parecem estar no céu. This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
@@ -82,9 +82,9 @@ end
 
 --- /task ---
 
-You can now play around with the numbers a little to get different sizes, color effects and numbers of flowers.
+Agora você pode brincar um pouco com os números para obter diferentes tamanhos, efeitos de cor e números de flores.
 
-You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
+Você também pode adicionar mais algumas coisas ao seu campo. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
 
 
 
