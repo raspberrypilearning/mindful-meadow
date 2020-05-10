@@ -16,7 +16,7 @@
 
 --- print-only ---
 
-![Complete project](images/banner.png)
+![Завершений проєкт](images/banner.png)
 
 --- /print-only ---
 
@@ -49,8 +49,8 @@ title: Чого ти навчишся
 title: Додаткова інформація для викладачів
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/mindful-meadow/print) {:target="_ blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+[Ось посилання на ресурси для цього проєкту](http://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
