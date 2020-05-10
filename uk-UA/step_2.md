@@ -2,15 +2,15 @@
 
 --- task ---
 
-Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
+Відкрий стартовий проєкт Скретч або онлайн за адресою [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} або завантаж проєкт на [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
 
 --- /task ---
 
-You should see a meadow in a forest, with a single large flower in the middle of the stage. На сцені також є повзунок, який буде контролювати кількість квітів, які ти побачиш.
+Ти повинен (повинна) побачити луг у лісі, з єдиною великою квіткою посеред Сцени. На сцені також є повзунок, який буде контролювати кількість квітів, які ти побачиш.
 
 --- task ---
 
-The flower is a little too large, so the first thing to do is resize it. Add these blocks to the flower sprite.
+Ця квітка трохи завелика, тож перше, що потрібно — це змінити її розмір. Add these blocks to the flower sprite.
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ set size to [5] %
 
 --- task ---
 
-Тепер нам потрібно згенерувати більше квітів. Є змінна `квіти`{:class="block3variables"}, яка керується повзунком на сцені. Тут можна встановити кількість квітів. You can use the blocks below to create clones of your flower.
+Тепер нам потрібно згенерувати більше квітів. Є змінна `квіти`{:class="block3variables"}, яка керується повзунком на сцені. Тут можна встановити кількість квітів. Ти можеш використовувати блоки наведені нижче, щоб створити клони своєї квітки.
 
 ```blocks3
 when flag clicked
@@ -34,26 +34,26 @@ set size to [5] %
 
 --- /task ---
 
-Якщо клікнути на зелений прапорець, то, ймовірно, нічого не станеться. This is because all the clones are created at the same position as the original flower.
+Якщо клікнути на зелений прапорець, то, ймовірно, нічого не станеться. Це тому, що клони створюються в такому ж місці, що й початкова квітка.
 
 --- task ---
 
-When a clone is created, it should go to a random position.
+Коли буде створений клон, він повинен перейти у випадкове місце.
 
 ```blocks3
 when I start as a clone
 go to (random position v)
 ```
 
-Don't forget to adjust the slider, to change the number of flowers you want.
+Не забудь налаштувати повзунок, щоб змінити бажану кількість квітів.
 
 --- /task ---
 
-At the moment, flowers will appear all over the stage, so some look like they're in the sky. This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+Зараз квіти з'являться по всій сцені, так що деякі виглядатимуть ніби вони в небі. This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-Add these blocks to keep moving the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
+Додай такі блоки, щоб продовжувати переміщувати квіти на випадкові місця, поки вони не знаходяться нижче `-60`{:class="block3motion"} по осі `y`{:class="block3motion"}.
 
 ```blocks3
 when I start as a clone
@@ -68,23 +68,23 @@ go to (random position v)
 
 --- task ---
 
-Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, using a `pick random`{:class="block3operators"} block.
+Додай такі блоки, щоб змінити `колір`{:class="block3looks"} і `розмір`{:class="block3looks"} квітів, використовуючи блок`випадкове від`{:class="block3operators"}.
 
 ```blocks3
-when I start as a clone
-go to (random position v)
-repeat until <(y position) < (-60)>
-go to (random position v)
+коли я починаю як клон
+перейти до (випадкова позиція v)
+повторити до <(значення y) < (-60)> 
+  перейти до (випадкова позиція v)
 end
-+ change size by (pick random (-10) to (10)
-+ change (color v) effect by (pick random (1) to (100))
++ змінити розмір на (випадкове від (-10) до (10))
++ змінити ефект (колір v) на (випадкове від (1) до (100))
 ```
 
 --- /task ---
 
 А зараз ти можеш трохи пограти з числами, щоб отримати різні розміри, кольорові ефекти та кількість квітів.
 
-You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
+Ти також можеш додати до лугу ще дещо. Як щодо додавання бджіл або кількох випадкових кроликів? Або навіть змінити тло на нічне небо і додати зірки та планети замість квітів.
 
 
 
