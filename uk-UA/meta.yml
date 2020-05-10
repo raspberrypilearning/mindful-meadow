@@ -1,14 +1,14 @@
 ---
-title: Mindful Meadow
+title: Мирний луг
 hero_image: images/banner.png
-description: mindful-meadow description
+description: опис лугу
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-05-04"
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: Create your meadow
+    title: Створи свій луг
 
