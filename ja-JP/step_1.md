@@ -1,6 +1,6 @@
 ## はじめに
 
-In this project you will create a peacefull, flower strewn meadow, to gaze at, relax and chill.
+このプロジェクトでは、見ていると心が安らぐ、花がさく草原を作ります。
 
 ### 作るもの
 
@@ -27,7 +27,7 @@ title: 必要 (ひつよう) なもの
 
 ### ハードウェア
 
-- A computer
+- コンピューター
 
 ### ソフトウェア
 
