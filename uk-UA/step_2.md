@@ -1,4 +1,4 @@
-## Create you mindful meadow
+## Створи свій мирний луг
 
 --- task ---
 
@@ -6,7 +6,7 @@ Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https
 
 --- /task ---
 
-You should see a meadow in a forest, with a single large flower in the middle of the stage. There's also a slider on the stage that will eventually control the number of flowers you see.
+You should see a meadow in a forest, with a single large flower in the middle of the stage. На сцені також є повзунок, який буде контролювати кількість квітів, які ти побачиш.
 
 --- task ---
 
@@ -17,13 +17,13 @@ when flag clicked
 set size to [5] %
 ```
 
-Click the green flag to see the new size of your flower.
+Натисни на зелений прапорець, щоб побачити новий розмір твоєї квітки.
 
 --- /task ---
 
 --- task ---
 
-Now we need to generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the stage. It can set the number of flowers. You can use the blocks below to create clones of your flower.
+Тепер нам потрібно згенерувати більше квітів. Є змінна `квіти`{:class="block3variables"}, яка керується повзунком на сцені. Тут можна встановити кількість квітів. You can use the blocks below to create clones of your flower.
 
 ```blocks3
 when flag clicked
@@ -34,7 +34,7 @@ set size to [5] %
 
 --- /task ---
 
-If you click the green flag, you'll probably not see anything happen. This is because all the clones are created at the same position as the original flower.
+Якщо клікнути на зелений прапорець, то, ймовірно, нічого не станеться. This is because all the clones are created at the same position as the original flower.
 
 --- task ---
 
