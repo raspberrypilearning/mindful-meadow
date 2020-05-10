@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-The flowers look a little dull currently, as they are all the same size and the same colour. We can use a random number generator block to fix this though.
+Квіти виглядають трохи тьмяно, оскільки вони однакового розміру та одного кольору. Ми можемо використати блок генератора випадкових чисел, щоб виправити це.
 
 --- task ---
 
@@ -82,7 +82,7 @@ end
 
 --- /task ---
 
-You can now play around with the numbers a little to get different sizes, color effects and numbers of flowers.
+А зараз ти можеш трохи пограти з числами, щоб отримати різні розміри, кольорові ефекти та кількість квітів.
 
 You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
 
