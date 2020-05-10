@@ -1,12 +1,12 @@
-## Introduction
+## Вступ
 
-In this project you will create a peacefull, flower strewn meadow, to gaze at, relax and chill.
+У цьому проєкті ти створиш мирний луг, покритий квітами, на якому можна релаксувати та розслаблятися.
 
-### What you will make
+### Що ти зробиш
 
 --- no-print ---
 
-Click the green flag and then move the slider to adjust the number of flowers.
+Натисни на зелений прапорець, а потім перетягни повзунок, щоб відрегулювати кількість квітів.
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -22,31 +22,31 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- collapse ---
 ---
-title: What you will need
+title: Що тобі знадобиться
 ---
 
-### Hardware
+### Обладнання
 
-- A computer
+- Комп'ютер
 
-### Software
+### Програмне забезпечення
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Скретч 3 ([онлайн](http://rpf.io/scratchon) або [офлайн](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Чого ти навчишся
 ---
 
-- How to use random numbers in your projects
+- Як використовувати випадкові числа у своїх проєктах
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Додаткова інформація для викладачів
 ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
