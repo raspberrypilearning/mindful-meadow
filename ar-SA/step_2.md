@@ -53,7 +53,7 @@ go to (random position v)
 
 --- task ---
 
-أضف هذه الكتل لمواصلة تحريك الزهور إلى وضع عشوائي، حتى تكون أقل من ` -60 ` {:class="block3motion"} في المحور ` ص `{:class="block3motion"}.
+أضف هذه الكتل لمواصلة تحريك الزهور إلى وضع عشوائي، حتى تكون أقل من ` -60 `   في المحور ص .
 
 ```blocks3
 when I start as a clone

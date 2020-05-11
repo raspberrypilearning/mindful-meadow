@@ -23,7 +23,7 @@ Haz clic en la bandera verde para ver el nuevo tamaño de tu flor.
 
 --- task ---
 
-Ahora necesitamos generar más flores. Hay una variable ` flores ` {: class = "block3variables"} controlada por el control deslizante en el escenario. Con ella puedes fijar el número de flores. Puedes usar los bloques que están a continuación para crear clones de tu flor.
+Ahora necesitamos generar más flores. Hay una variable `flores`{:class="block3variables"} controlada por el control deslizante en el escenario. Con ella puedes fijar el número de flores. Puedes usar los bloques que están a continuación para crear clones de tu flor.
 
 ```blocks3
 when flag clicked
