@@ -1,6 +1,6 @@
 ## はじめに
 
-このプロジェクトでは、見ていると心が安らぐ、花がさく草原を作ります。
+In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
 ### 作るもの
 
