@@ -53,7 +53,7 @@ go to (random position v)
 
 --- task ---
 
-Add these blocks to keep moving the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
+أضف هذه الكتل لمواصلة تحريك الزهور إلى وضع عشوائي، حتى تكون أقل من ` -60 ` {: class = "block3motion"} في المحور ` ص ` {: class = "block3motion"}.
 
 ```blocks3
 when I start as a clone
@@ -71,13 +71,13 @@ go to (random position v)
 أضف هذه الكتل لتغيير اللون `color`{:class="block3looks"} و `الحجم`{:class="block3looks"} من الزهور باستخدام كتلة `عدد عشوائي بين`{:class="block3operators"}.
 
 ```blocks3
-when I start as a clone
-go to (random position v)
-repeat until <(y position) < (-60)>
-go to (random position v)
+عندما أبدأ كنسخة
+انتقل إلى (الموضع العشوائي v)
+أكرر حتى <(المكان) y position) < (-60)>
+انتقل إلى (الموضع العشوائي v)
 end
-+ change size by (pick random (-10) to (10)
-+ change (color v) effect by (pick random (1) to (100))
++ تغيير الحجم بمقدار (اختيار عشوائي (-10) إلى (10)
++ تغيير التأثير (لون v) بمقدار (اختر عشوائي (1) إلى (100))
 ```
 
 --- /task ---
