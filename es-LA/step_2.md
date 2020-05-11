@@ -2,11 +2,11 @@
 
 --- task ---
 
-Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
+Abre el proyecto inicial de Scratch en línea en [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} o descárgalo en [rpf.io/p/es/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
 
 --- /task ---
 
-You should see a meadow in a forest, with a single large flower in the middle of the stage. There's also a slider on the stage that will eventually control the number of flowers you see.
+Deberías ver una pradera en un bosque, con una sola flor grande en medio del escenario. También hay un control deslizante en el escenario que eventualmente controlará la cantidad de flores que ves.
 
 --- task ---
 
