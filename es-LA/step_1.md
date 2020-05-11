@@ -16,7 +16,7 @@ Haz clic en la bandera verde y luego mueve el control deslizante para ajustar el
 
 --- print-only ---
 
-![Complete project](images/banner.png)
+![Proyecto terminado](images/banner.png)
 
 --- /print-only ---
 
@@ -49,8 +49,8 @@ título: Lo que aprenderás
 título: Información adicional para educadores
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+Si necesitas imprimir el proyecto, por favor utiliza la [versión para imprimir](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+[Aquí hay un enlace a los recursos para este proyecto](http://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
