@@ -1,12 +1,12 @@
-## Introduction
+## Introducción
 
 In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
-### What you will make
+### Lo que harás
 
 --- no-print ---
 
-Click the green flag and then move the slider to adjust the number of flowers.
+Haz clic en la bandera verde y luego mueve el control deslizante para ajustar el número de flores.
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -22,31 +22,31 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- collapse ---
 ---
-title: What you will need
+título: Lo que necesitarás
 ---
 
-### Hardware
+### Equipo
 
-- A computer
+- Un computador
 
-### Software
+### Programa
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3 (ya sea [en línea](http://rpf.io/scratchon) o [sin conexión](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+título: Lo que aprenderás
 ---
 
-- How to use random numbers in your projects
+- Cómo usar números aleatorios en tus proyectos
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+título: Información adicional para educadores
 ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
