@@ -1,6 +1,6 @@
 ## Introducción
 
-In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
+En este proyecto crearás un tranquilo prado de flores, para mirarlo, relajarse y descansar.
 
 ### Lo que harás
 
