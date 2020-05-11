@@ -1,6 +1,6 @@
 ## Introduction
 
-Dans ce projet, tu créeras une prairie paisible et fleurie pour contempler, te relaxer et te détendre.
+In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
 ### Ce que tu feras
 
