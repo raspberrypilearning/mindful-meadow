@@ -1,6 +1,6 @@
 ## Einleitung
 
-In diesem Projekt erstellst du eine friedliche, mit Blumen übersäte Wiese, die du dir ansehen, dich ausruhen und entspannen kannst.
+In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
 ### Was du machen wirst
 
