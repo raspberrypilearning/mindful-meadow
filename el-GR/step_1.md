@@ -1,6 +1,6 @@
 ## Εισαγωγή
 
-Σε αυτό το έργο θα δημιουργήσεις ένα γαλήνιο, ανθισμένο λιβάδι, για να το χαζέψεις, να αράξεις και να χαλαρώσεις.
+In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
 ### Τι θα φτιάξεις
 
