@@ -1,6 +1,6 @@
 ## Вступ
 
-У цьому проєкті ти створиш мирний луг, покритий квітами, на якому можна релаксувати та розслаблятися.
+In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
 ### Що ти зробиш
 
