@@ -1,4 +1,4 @@
-## Create you mindful meadow
+## Crea tu prado relajante
 
 --- task ---
 
@@ -6,7 +6,7 @@ Abre el proyecto inicial de Scratch en línea en [rpf.io/dm-meadow-start](https:
 
 --- /task ---
 
-Deberías ver una pradera en un bosque, con una sola flor grande en medio del escenario. También hay un control deslizante en el escenario que eventualmente controlará la cantidad de flores que ves.
+Deberías ver un prado en un bosque, con una sola flor grande en medio del escenario. También hay un control deslizante en el escenario que eventualmente controlará la cantidad de flores que ves.
 
 --- task ---
 
@@ -84,7 +84,7 @@ end
 
 Ahora puedes jugar un poco con los números para obtener diferentes tamaños, efectos de color y número de flores.
 
-También te podría gustar agregar otras cosas en tu pradera. ¿Qué tal añadir algunas abejas o algunos conejos al azar?. O incluso cambiar el fondo a un cielo nocturno y agregar estrellas y planetas en lugar de flores.
+You might also like to add a few more things to your meadow. ¿Qué tal agregar algunas abejas o algunos conejos al azar?. O incluso cambiar el fondo a un cielo nocturno y agregar estrellas y planetas en lugar de flores.
 
 
 
