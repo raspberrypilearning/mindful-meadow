@@ -1,12 +1,12 @@
-## Introduction
+## 介紹
 
 In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
-### What you will make
+### 你將會做出
 
 --- no-print ---
 
-Click the green flag and then move the slider to adjust the number of flowers.
+點擊綠色旗子，然後移動滑桿來調整花朵數量。
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -16,41 +16,41 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- print-only ---
 
-![Complete project](images/banner.png)
+![完成專案](images/banner.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: 你會需要用到
 ---
 
-### Hardware
+### 硬體
 
-- A computer
+- 一台電腦
 
-### Software
+### 軟體
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3（[線上版](http://rpf.io/scratchon)或[離線版](http://rpf.io/scratchoff)）
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 你會學到
 ---
 
-- How to use random numbers in your projects
+- 如何在項目中使用隨機數
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 給教師的其它資訊
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+如果你需要列印此專案，請使用[友善列印](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}。
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+[這裡是是本專案的資源連結。](http://rpf.io/p/en/mindful-meadow-get) 。
 
 --- /collapse ---
