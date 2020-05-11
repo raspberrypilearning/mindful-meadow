@@ -1,6 +1,6 @@
 ## المقدمة
 
-في هذا المشروع، سوف تقوم بأنشاء مرج مليء بالزهور، ينعم بالهدوء واجواء للأسترخاء.
+In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
 ### ما الذي سوف تصنعه
 
