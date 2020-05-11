@@ -10,20 +10,20 @@ Deberías ver una pradera en un bosque, con una sola flor grande en medio del es
 
 --- task ---
 
-The flower is a little too large, so the first thing to do is resize it. Add these blocks to the flower sprite.
+La flor está demasiado grande, por lo que lo primero que debes hacer es cambiar su tamaño. Añade estos bloques al objeto flor.
 
 ```blocks3
 when flag clicked
 set size to [5] %
 ```
 
-Click the green flag to see the new size of your flower.
+Haz clic en la bandera verde para ver el nuevo tamaño de tu flor.
 
 --- /task ---
 
 --- task ---
 
-Now we need to generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the stage. It can set the number of flowers. You can use the blocks below to create clones of your flower.
+Ahora necesitamos generar más flores. Está la variable `flores`{: class = "block3variables"} que se ajusta con el control deslizante en el escenario. Te permite fijar el número de flores. Puedes usar los bloques que están a continuación para crear clones de tu flor.
 
 ```blocks3
 when flag clicked
