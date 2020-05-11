@@ -49,7 +49,7 @@ go to (random position v)
 
 --- /task ---
 
-這個時候，花朵將布滿整個舞台，所以有些看起來會像是在天空中漂浮著。 This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+這個時候，花朵將布滿整個舞台，所以有些看起來會像是在天空中漂浮著。 這可以被更正透過確保花的`y`{:class="block3motion"}座標一直都在大石頭下面。
 
 --- task ---
 
@@ -71,20 +71,20 @@ go to (random position v)
 增加這些積木來更改花朵的`顏色`{:class="block3looks"}和`尺寸`{:class="block3looks"}透過`隨機取數`{:class="block3operators"}積木。
 
 ```blocks3
-when I start as a clone
-go to (random position v)
-repeat until <(y position) < (-60)>
-go to (random position v)
-end
-+ change size by (pick random (-10) to (10)
-+ change (color v) effect by (pick random (1) to (100))
+當分身產生
+定位到 (隨機位置 v)
+重複直到 <(y座標) < (-60)>
+定位到 (隨機位置 v)
+結束
++ 尺寸改變 (隨機取數 (-10) 到 (10)
++ 圖像效果 (顏色 v) 改變 (隨機取數 (1) 到 (100))
 ```
 
 --- /task ---
 
 現在你可以稍微修改一下數字來取得不同的花朵大小、顏色和數量
 
-你可能還想在草地上加些新的東西。 加些蜜蜂或是幾隻隨機的兔子怎麼樣？ Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
+你可能還想在草地上加些新的東西。 加些蜜蜂或是幾隻隨機的兔子怎麼樣？ 或者把背景改成夜晚的天空，讓星星和行星取代花朵。
 
 
 
