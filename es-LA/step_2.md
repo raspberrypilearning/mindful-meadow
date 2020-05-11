@@ -45,15 +45,15 @@ when I start as a clone
 go to (random position v)
 ```
 
-Don't forget to adjust the slider, to change the number of flowers you want.
+No olvides ajustar el control deslizante, para cambiar la cantidad de flores que quieres.
 
 --- /task ---
 
-At the moment, flowers will appear all over the stage, so some look like they're in the sky. This can be fixed by making sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+Por el momento, las flores aparecerán por todo el escenario, así que algunas parecen estar en el cielo. Esto se puede arreglar asegurando que la posición `y`{:class="block3motion"} de las flores esté siempre debajo de la roca grande.
 
 --- task ---
 
-Add these blocks to keep moving the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
+Añade estos bloques para seguir moviendo las flores a una posición aleatoria, hasta que estén por debajo de `-60`{:class="block3motion"} en el eje `y`{:class="block3motion"}.
 
 ```blocks3
 when I start as a clone
@@ -64,11 +64,11 @@ go to (random position v)
 
 --- /task ---
 
-The flowers look a little dull currently, as they are all the same size and the same colour. We can use a random number generator block to fix this though.
+Las flores por ahora se ven un poco aburridas, ya que todas son del mismo tamaño y color. Sin embargo, podemos usar un bloque generador de números aleatorios para arreglar esto.
 
 --- task ---
 
-Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, using a `pick random`{:class="block3operators"} block.
+Añade estos bloques para cambiar el `color`{:class="block3looks"} y el `tamaño`{:class="block3looks"} de las flores, al usar un bloque `número al azar`{:class="block3operators"}.
 
 ```blocks3
 when I start as a clone
@@ -82,9 +82,9 @@ end
 
 --- /task ---
 
-You can now play around with the numbers a little to get different sizes, color effects and numbers of flowers.
+Ahora puedes jugar un poco con los números para obtener diferentes tamaños, efectos de color y número de flores.
 
-You might also like to add a few more things to your meadow. How about adding some bees or a few random rabbits. Or even change the backdrop to a nighttime sky and add stars and planets instead of flowers.
+También te podría gustar agregar otras cosas en tu pradera. ¿Qué tal añadir algunas abejas o algunos conejos al azar?. O incluso cambiar el fondo a un cielo nocturno y agregar estrellas y planetas en lugar de flores.
 
 
 
