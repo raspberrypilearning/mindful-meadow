@@ -1,6 +1,6 @@
 ## Introdução
 
-In this project you will create a peacefull, flower strewn meadow, to gaze at, relax and chill.
+In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
 ### O que você vai fazer
 
