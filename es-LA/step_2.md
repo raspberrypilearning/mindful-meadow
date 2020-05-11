@@ -84,7 +84,7 @@ end
 
 Ahora puedes jugar un poco con los números para obtener diferentes tamaños, efectos de color y número de flores.
 
-You might also like to add a few more things to your meadow. ¿Qué tal agregar algunas abejas o algunos conejos al azar?. O incluso cambiar el fondo a un cielo nocturno y agregar estrellas y planetas en lugar de flores.
+También te podría gustar agregar otras cosas en tu prado. ¿Qué tal agregar algunas abejas o algunos conejos al azar?. O incluso cambiar el fondo a un cielo nocturno y agregar estrellas y planetas en lugar de flores.
 
 
 
