@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto, crearás una tranquila pradera, sembrada de flores, para contemplar, relajarte y descansar.
+In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
 ### Lo que harás
 
