@@ -1,6 +1,6 @@
 ## परिचय
 
-इस प्रोजेक्ट में आप एक शांतिमय, फूल से भरा हुआ बगीचा बनाएंगे जिसे आप देखे तो आपको आराम मिले |
+In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
 
 ### आप क्या बनाएँगे
 
