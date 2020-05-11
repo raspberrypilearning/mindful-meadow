@@ -34,11 +34,11 @@ set size to [5] %
 
 --- /task ---
 
-If you click the green flag, you'll probably not see anything happen. This is because all the clones are created at the same position as the original flower.
+Al hacer clic en la bandera verde, es probable que notes que nada sucede. Esto se debe a que todos los clones se crean en la misma posición que la flor original.
 
 --- task ---
 
-When a clone is created, it should go to a random position.
+Cuando se crea un clon, debería ir en posición aleatoria.
 
 ```blocks3
 when I start as a clone
