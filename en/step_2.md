@@ -6,7 +6,7 @@ Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https
 
 --- /task ---
 
-You should see a meadow in a forest, with a single large flower in the middle of the Stage. There's also a slider on the Stage that will eventually control the number of flowers you see.
+You should see a meadow in a forest, with a single large flower in the middle of the Stage. There's also a slider on the Stage that will eventually control the number of flowers that you see.
 
 --- task ---
 
