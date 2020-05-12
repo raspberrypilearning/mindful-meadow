@@ -45,7 +45,7 @@ when I start as a clone
 go to (random position v)
 ```
 
-Don't forget to adjust the slider to change the number of flowers you want.
+Don't forget to adjust the slider to change the number of flowers that you want.
 
 --- /task ---
 
