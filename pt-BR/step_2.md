@@ -10,7 +10,7 @@ You should see a meadow in a forest, with a single large flower in the middle of
 
 --- task ---
 
-The flower is a little too large, so the first thing to do is to resize it. Add these blocks to the flower sprite:
+The flower is a little too large, so the first thing to do is resize it. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -49,7 +49,7 @@ Don't forget to adjust the slider to change the number of flowers you want.
 
 --- /task ---
 
-At the moment the flowers appear all over the Stage, some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+At the moment, the flowers appear all over the Stage — some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
@@ -68,7 +68,7 @@ The flowers look a little dull, they are all the same size and the same colour. 
 
 --- task ---
 
-Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, and use a `pick random`{:class="block3operators"} block:
+Add a `pick random`{:class="block3operators"} block to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers:
 
 ```blocks3
 when I start as a clone
@@ -82,9 +82,9 @@ end
 
 --- /task ---
 
-You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
+You can now play around with the numbers to get different sizes, colour effects, and numbers of flowers.
 
-Você também pode adicionar mais algumas coisas ao seu campo. How about adding some bees or a few random rabbits? You could even change the backdrop to the night sky, and add stars and planets instead of flowers.
+Você também pode adicionar mais algumas coisas ao seu campo. How about adding some bees or a few rabbits? You could even change the backdrop to the night sky, and add stars and planets instead of flowers.
 
 
 
