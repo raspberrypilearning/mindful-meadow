@@ -38,7 +38,7 @@ If you click the green flag, you'll probably not notice anything happen. This is
 
 --- task ---
 
-When a clone is created, it should go to a random position: 
+When a clone is created, use this block to make it go to a random position: 
 
 ```blocks3
 when I start as a clone
