@@ -2,15 +2,15 @@
 
 --- task ---
 
-開啟入門Scratch專案透過線上版[rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){：target =“ _ blank”}或下載入門專案從[ rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
+Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starter project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
 
 --- /task ---
 
-你應該會看到一片草地在森林裡, 有一朵大花在舞台的中央。 舞台上還有一個滑桿，用來控制你看到的花朵數量。
+You should see a meadow in a forest, with a single large flower in the middle of the Stage. There's also a slider on the Stage that will eventually control the number of flowers that you see.
 
 --- task ---
 
-花有點太大，所以要做的第一件事就是調整它的大小。 在你的花朵角色上增加這些積木：
+花有點太大，所以要做的第一件事就是調整它的大小。 Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ set size to [5] %
 
 --- task ---
 
-現在我們需要產生更多的花朵。 `花朵`{:class="block3variables"}是由舞台上的滑桿控制的變數。 它可以用來設置花朵數量。 你可以使用下面這些積木來複製花朵：
+現在我們需要產生更多的花朵。 There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. 它可以用來設置花朵數量。 你可以使用下面這些積木來複製花朵：
 
 ```blocks3
 when flag clicked
@@ -49,11 +49,11 @@ go to (random position v)
 
 --- /task ---
 
-這個時候，花朵將布滿整個舞台，所以有些看起來會像是在天空中漂浮著。 這可以被更正透過確保花的`y`{:class="block3motion"}座標一直都在大石頭下面。
+At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-增加這些積木讓花朵持續移動到隨機的位置，直到他們低於`-60`{:class="block3motion"}在`y`{:class="block3motion"}軸上。
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
 
 ```blocks3
 when I start as a clone
@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-目前看起來有點枯燥，因為花的大小還有顏色都是一樣的。 我們可以用隨機取數積木來解決這個問題。
+The flowers look a little dull, they are all the same size and the same colour. You can use a random number generator block to fix this.
 
 --- task ---
 
@@ -82,9 +82,9 @@ go to (random position v)
 
 --- /task ---
 
-現在你可以稍微修改一下數字來取得不同的花朵大小、顏色和數量
+You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-你可能還想在草地上加些新的東西。 加些蜜蜂或是幾隻隨機的兔子怎麼樣？ 或者把背景改成夜晚的天空，讓星星和行星取代花朵。
+你可能還想在草地上加些新的東西。 How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
 
 
 
