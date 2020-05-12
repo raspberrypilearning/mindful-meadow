@@ -2,15 +2,15 @@
 
 --- task ---
 
-온라인 [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"}에서 입문자 스크래치 프로젝트를 열거나 [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)에서 입문자 프로그램을 다운로드하세요.
+Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starter project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
 
 --- /task ---
 
-숲 속의 초원이 보입니다. 무대의 중심에는 한 송이의 큰 꽃이 있습니다. 그리고 슬라이더가 있는데, 이는 당신에게 보이는 꽃의 수를 즉시 바꿀 수 있습니다.
+You should see a meadow in a forest, with a single large flower in the middle of the Stage. There's also a slider on the Stage that will eventually control the number of flowers that you see.
 
 --- task ---
 
-꽃이 좀 너무 큰 듯합니다. 따라서 먼저 꽃의 크기를 다시 정해야 합니다. 이 블럭들을 꽃 스프라이트에 추가하세요.
+꽃이 좀 너무 큰 듯합니다. 따라서 먼저 꽃의 크기를 다시 정해야 합니다. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ set size to [5] %
 
 --- task ---
 
-이제 더 많은 꽃들을 만들어야 합니다. `꽃들`{:class="block3variables"} 이라는 변수가 있으며, 이는 무대의 슬라이더로 조절이 가능합니다. 슬라이더는 꽃의 수를 설정합니다. 아래의 블럭들을 사용해 꽃의 복제본들을 만들 수 있습니다.
+이제 더 많은 꽃들을 만들어야 합니다. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. 슬라이더는 꽃의 수를 설정합니다. 아래의 블럭들을 사용해 꽃의 복제본들을 만들 수 있습니다.
 
 ```blocks3
 when flag clicked
@@ -49,11 +49,11 @@ go to (random position v)
 
 --- /task ---
 
-그 순간, 꽃들이 무대 사방에 다 나타날 것입니다. 몇몇은 하늘에 있는 것처럼 보일 거예요. 이것은 꽃의 `y좌표`{:class="block3motion"} 가 항상 큰 바위보다 아래에 있게함으로써 해결할 수 있습니다.
+At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-이 블럭들을 추가하여 꽃이 `y`{:class="block3motion"} 좌표의 `-60`{:class="block3motion"}보다 아래에 있으면서 무작위의 위치로 이동하도록 하십시오.
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
 
 ```blocks3
 when I start as a clone
@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-현재는 꽃들이 조금 지루해 보일 수 있습니다. 전부 같은 크기에 같은 색깔이기 때문입니다. 이를 해결하기 위해 난수 생성 블럭을 사용할 수 있습니다.
+The flowers look a little dull, they are all the same size and the same colour. You can use a random number generator block to fix this.
 
 --- task ---
 
@@ -82,9 +82,9 @@ go to (random position v)
 
 --- /task ---
 
-이제 당신은 숫자로 꽃들의 크기, 색깔, 수를 바꾸면서 놀 수 있습니다.
+You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-당신의 초원에 몇 가지를 더 넣고 싶을 수 있습니다. 벌들과 무작위의 토끼들을 추가해보는 것은 어떨까요. 또는 배경을 밤하늘로 바꾸고 꽃들 대신에 별들을 추가해 볼 수도 있습니다.
+당신의 초원에 몇 가지를 더 넣고 싶을 수 있습니다. How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
 
 
 
