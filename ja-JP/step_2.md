@@ -2,15 +2,15 @@
 
 --- task ---
 
-[rpf.io/dm-meadow-start ](https://rpf.io/dm-meadow-start){:target="_blank"}から基本 (きほん) の Scratch プロジェクトを開きます。または[rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)から基本のプロジェクトをダウンロードします。
+Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starter project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
 
 --- /task ---
 
-森の中の草原の真ん中に大きな花が1つあります。 ステージには、表示 (ひょうじ) される花の数をあとで調整するスライダーもあります。
+You should see a meadow in a forest, with a single large flower in the middle of the Stage. There's also a slider on the Stage that will eventually control the number of flowers that you see.
 
 --- task ---
 
-花は少し大きすぎるので、まずサイズをかえます。 このブロックを花のスプライトに追加 (ついか) します。
+花は少し大きすぎるので、まずサイズをかえます。 Add these blocks to the flower sprite:
 
 ```blocks3
 ⚑ が押されたとき
@@ -23,7 +23,7 @@
 
 --- task ---
 
-次に、もっとたくさんの花をさかせましょう。 ステージ上に、スライダーで調整できる`お花の数`{:class="block3variables"}という変数 (へんすう) があります。 スライダーを使って花の数を決めることができます。 このブロックを使うと、花のクローンを作成 (さくせい) できます。
+次に、もっとたくさんの花をさかせましょう。 There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. スライダーを使って花の数を決めることができます。 このブロックを使うと、花のクローンを作成 (さくせい) できます。
 
 ```blocks3
 ⚑ が押されたとき
@@ -49,11 +49,11 @@ go to (random position v)
 
 --- /task ---
 
-今のところ花がステージ全体にさくので、空にうかんでいるように見えるものもあります。 この問題は花の`y`{:class="block3motion"}の位置を常に大きな岩より低くすることで、かいけつできます。
+At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-このブロックを追加すると、花の位置が`y`{:class="block3motion"}軸 (じく) 上で`-60`{:class="block3motion"}より下になるまで、ランダムな位置に移動しつづけます 。
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
 
 ```blocks3
 when I start as a clone
@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-花はすべて同じサイズかつ同じ色なので、今は少しつまらなく見えます。 でも乱数 (らんすう) 発生ブロックを使えば、もっと楽しくなります。
+The flowers look a little dull, they are all the same size and the same colour. You can use a random number generator block to fix this.
 
 --- task ---
 
@@ -82,9 +82,9 @@ end
 
 --- /task ---
 
-これで少し数字をいじくって、花の大きさや色、数をかえられるようになりました。
+You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-草原に何かを追加するのもいいでしょう。 ミツバチやたまに出てくるウサギなどはどうでしょうか？ 背景 (はいけい) を夜空にかえて、花のかわりに星や惑星 (わくせい) を追加するのもいいですね。
+草原に何かを追加するのもいいでしょう。 How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
 
 
 
