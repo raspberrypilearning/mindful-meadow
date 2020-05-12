@@ -1,8 +1,8 @@
-## Introduction
+## Introduzione
 
-In this project you will create a peaceful, flower-strewn meadow, to gaze at, relax and chill.
+In this project you will create a peaceful, flower-strewn meadow, for you to gaze at, relax, and chill.
 
-### What you will make
+### Che cosa creerai
 
 --- no-print ---
 
@@ -22,16 +22,16 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- collapse ---
 ---
-title: What you will need
+title: Cosa ti servirà
 ---
 
 ### Hardware
 
-- A computer
+- Un computer
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3 ([online](http://rpf.io/scratchon) o [offline](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
@@ -46,11 +46,11 @@ title: What you will learn
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informazioni aggiuntive per gli educatori
 ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+[Ecco un link alle risorse per questo progetto](http://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
