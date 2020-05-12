@@ -84,7 +84,7 @@ end
 
 You can now play around with the numbers to get different sizes, colour effects, and numbers of flowers.
 
-आप अपने बगीचे में कुछ और चीजें जोड़ सकते हैं। How about adding some bees or a few rabbits? You could even change the backdrop to the night sky, and add stars and planets instead of flowers.
+आप अपने बगीचे में कुछ और चीजें जोड़ सकते हैं। How about some bees or a few rabbits? You could even change the backdrop to the night sky, and swap your flowers for stars and planets.
 
 
 
