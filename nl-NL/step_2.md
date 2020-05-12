@@ -2,15 +2,15 @@
 
 --- task ---
 
-Open het start Scratch-project online op [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} of download het startproject op [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
+Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starter project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
 
 --- /task ---
 
-Je zou een weide in een bos moeten zien, met een enkele grote bloem in het midden van het speelveld. Er is ook een schuifregelaar op het podium die uiteindelijk het aantal bloemen dat je ziet, zal regelen.
+You should see a meadow in a forest, with a single large flower in the middle of the Stage. There's also a slider on the Stage that will eventually control the number of flowers that you see.
 
 --- task ---
 
-De bloem is een beetje te groot, dus het eerste wat te doen is het verkleinen ervan. Voeg deze blokken toe aan de bloemsprite.
+De bloem is een beetje te groot, dus het eerste wat te doen is het verkleinen ervan. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ Klik op de groene vlag om de nieuwe grootte van je bloem te zien.
 
 --- task ---
 
-Nu moeten we meer bloemen genereren. Er is een `bloemen`{:class="block3variables"} variabele die wordt bestuurd door de schuifregelaar in het speelveld. Het kan het aantal bloemen instellen. Je kunt de onderstaande blokken gebruiken om klonen van je bloem te maken.
+Nu moeten we meer bloemen genereren. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. Het kan het aantal bloemen instellen. Je kunt de onderstaande blokken gebruiken om klonen van je bloem te maken.
 
 ```blocks3
 when flag clicked
@@ -49,11 +49,11 @@ Vergeet niet de schuifregelaar aan te passen om het aantal gewenste bloemen te w
 
 --- /task ---
 
-Op dit moment verschijnen er bloemen over het hele speelveld, dus sommige zien eruit alsof ze in de lucht hangen. Dit kan worden opgelost door ervoor te zorgen dat de `y`{:class="block3motion"} positie van de bloemen altijd lager dan de grote rots is.
+At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-Voeg deze blokken toe om de bloemen naar een willekeurige positie te laten bewegen, totdat ze lager zijn dan `-60`{:class="block3motion"} op de `y`{:class="block3motion"}-as.
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
 
 ```blocks3
 when I start as a clone
@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-De bloemen zien er op dit moment een beetje saai uit, omdat ze allemaal dezelfde grootte en dezelfde kleur hebben. We kunnen echter een functieblok voor willekeurige getallen gebruiken om dit op te lossen.
+The flowers look a little dull, they are all the same size and the same colour. You can use a random number generator block to fix this.
 
 --- task ---
 
@@ -82,9 +82,9 @@ end
 
 --- /task ---
 
-Je kunt nu met de getallen spelen om verschillende grootten, kleureffecten en aantallen bloemen te krijgen.
+You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-Misschien wil je ook nog een paar dingen toevoegen aan je weide. Wat dacht je van het toevoegen van enkele bijen of een paar willekeurige konijnen. Of verander zelfs de achtergrond in een nachtelijke hemel en voeg sterren en planeten toe in plaats van bloemen.
+Misschien wil je ook nog een paar dingen toevoegen aan je weide. How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
 
 
 
