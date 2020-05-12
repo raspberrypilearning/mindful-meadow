@@ -34,18 +34,18 @@ set size to [5] %
 
 --- /task ---
 
-If you click the green flag, you'll probably not notice anything happen. This is because all the clones are created at the same position as the original flower.
+If you click the green flag, you'll probably not notice anything happen. Questo perché tutti i cloni vengono creati nella stessa posizione del fiore originale.
 
 --- task ---
 
-When a clone is created, it should go to a random position:
+When a clone is created, use this block to make it go to a random position:
 
 ```blocks3
 when I start as a clone
 go to (random position v)
 ```
 
-Don't forget to adjust the slider to change the number of flowers you want.
+Don't forget to adjust the slider to change the number of flowers that you want.
 
 --- /task ---
 
@@ -84,7 +84,7 @@ end
 
 You can now play around with the numbers to get different sizes, colour effects, and numbers of flowers.
 
-You might also like to add a few more things to your meadow. How about adding some bees or a few rabbits? You could even change the backdrop to the night sky, and add stars and planets instead of flowers.
+Potresti anche aggiungere qualche altro elemento al tuo prato. How about adding some bees or a few rabbits? You could even change the backdrop to the night sky, and add stars and planets instead of flowers.
 
 
 
