@@ -10,7 +10,7 @@ You should see a meadow in a forest, with a single large flower in the middle of
 
 --- task ---
 
-꽃이 좀 너무 큰 듯합니다. 따라서 먼저 꽃의 크기를 다시 정해야 합니다. Add these blocks to the flower sprite:
+The flower is a little too large, so the first thing to do is to resize it. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ set size to [5] %
 
 --- task ---
 
-이제 더 많은 꽃들을 만들어야 합니다. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. 슬라이더는 꽃의 수를 설정합니다. 아래의 블럭들을 사용해 꽃의 복제본들을 만들 수 있습니다.
+Now let's generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage, which sets the number of flowers. You can use the blocks below to create clones of your flower:
 
 ```blocks3
 when flag clicked
@@ -34,26 +34,26 @@ set size to [5] %
 
 --- /task ---
 
-초록색 깃발을 클릭하면, 아무것도 일어나지 않는 것을 볼 수 있습니다. 복제본들이 기존 꽃 위에 겹쳐져 있기 때문입니다.
+If you click the green flag, you'll probably not notice anything happen. 복제본들이 기존 꽃 위에 겹쳐져 있기 때문입니다.
 
 --- task ---
 
-복제본이 만들어질 때, 이들은 무작위의 위치로 이동해야 합니다.
+When a clone is created, it should go to a random position:
 
 ```blocks3
 when I start as a clone
 go to (random position v)
 ```
 
-꽃의 개수를 원하는 만큼 변경하기 위해 슬라이더를 사용하는 것을 잊지 마세요.
+Don't forget to adjust the slider to change the number of flowers you want.
 
 --- /task ---
 
-At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+At the moment the flowers appear all over the Stage, some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis:
 
 ```blocks3
 when I start as a clone
@@ -68,7 +68,7 @@ The flowers look a little dull, they are all the same size and the same colour. 
 
 --- task ---
 
-이 블럭들을 추가하여 `난수 정하기`{:class="block3operators"}를 사용해 `색깔`{:class="block3looks"}과 `크기`{:class="block3looks"}를 변경합니다.
+Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, and use a `pick random`{:class="block3operators"} block:
 
 ```blocks3
 복제되었을 때
@@ -84,7 +84,7 @@ The flowers look a little dull, they are all the same size and the same colour. 
 
 You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-당신의 초원에 몇 가지를 더 넣고 싶을 수 있습니다. How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
+당신의 초원에 몇 가지를 더 넣고 싶을 수 있습니다. How about adding some bees or a few random rabbits? You could even change the backdrop to the night sky, and add stars and planets instead of flowers.
 
 
 
