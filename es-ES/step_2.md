@@ -10,7 +10,7 @@ You should see a meadow in a forest, with a single large flower in the middle of
 
 --- task ---
 
-La flor es un poquito grande, por lo que lo primero que debes hacer es cambiar su tamaño. Add these blocks to the flower sprite:
+The flower is a little too large, so the first thing to do is to resize it. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ Haz clic en la bandera verde para ver el nuevo tamaño de tu flor.
 
 --- task ---
 
-Ahora necesitamos generar más flores. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. Con ella puedes fijar el número de flores. Puedes usar los bloques que están a continuación para crear clones de tu flor.
+Now let's generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage, which sets the number of flowers. You can use the blocks below to create clones of your flower:
 
 ```blocks3
 when flag clicked
@@ -34,26 +34,26 @@ set size to [5] %
 
 --- /task ---
 
-Si haces clic en la bandera verde, probablemente no verás que pase nada. Esto se debe a que todos los clones se crean en la misma posición que la flor original.
+If you click the green flag, you'll probably not notice anything happen. Esto se debe a que todos los clones se crean en la misma posición que la flor original.
 
 --- task ---
 
-Cuando un clon es creado, debería ir a una posición aleatoria.
+When a clone is created, it should go to a random position:
 
 ```blocks3
 when I start as a clone
 go to (random position v)
 ```
 
-No olvides ajustar el control deslizante, para cambiar el número de flores que quieras.
+Don't forget to adjust the slider to change the number of flowers you want.
 
 --- /task ---
 
-At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+At the moment the flowers appear all over the Stage, some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis:
 
 ```blocks3
 when I start as a clone
@@ -68,7 +68,7 @@ The flowers look a little dull, they are all the same size and the same colour. 
 
 --- task ---
 
-Añade estos bloques para cambiar el `color`{:class="block3looks"} y el `tamaño`{:class="block3looks"} de las flores, usando un bloque `número al azar`{:class="block3operators"}.
+Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, and use a `pick random`{:class="block3operators"} block:
 
 ```blocks3
 when I start as a clone
@@ -84,7 +84,7 @@ end
 
 You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-También puede que te guste añadir algunas cosas más a tu pradera. How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
+También puede que te guste añadir algunas cosas más a tu pradera. How about adding some bees or a few random rabbits? You could even change the backdrop to the night sky, and add stars and planets instead of flowers.
 
 
 
