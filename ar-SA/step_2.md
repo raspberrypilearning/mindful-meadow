@@ -2,15 +2,15 @@
 
 --- task ---
 
-افتح مشروع Scratch إما على الإنترنت في [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} أو قم بتحميل المشروع على [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
+Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starter project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
 
 --- /task ---
 
-يجب أن ترى مرج في غابة، مع زهرة واحدة كبيرة في منتصف المنصة. هناك أيضا شريط تمرير على المنصة الذي سيتحكم في نهاية المطاف بعدد الزهور التي تراها.
+You should see a meadow in a forest, with a single large flower in the middle of the Stage. There's also a slider on the Stage that will eventually control the number of flowers that you see.
 
 --- task ---
 
-الزهرة كبيرة جداً، لذا فإن أول شيء عليك فعله هو تغيير حجمها. أضف هذه التعليمات البرمجية إلى الزهرة.
+الزهرة كبيرة جداً، لذا فإن أول شيء عليك فعله هو تغيير حجمها. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ set size to [5] %
 
 --- task ---
 
-الآن نحن بحاجة إلى أنشاء المزيد من الزهور. هناك متغير `زهور `{:class="block3variables"} الذي يتحكم به شريط التمرير على المنصة. يمكنها أن تحدد عدد الزهور. يمكنك استخدام الكتل أدناه لإنشاء نسخ للزهرة.
+الآن نحن بحاجة إلى أنشاء المزيد من الزهور. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. يمكنها أن تحدد عدد الزهور. يمكنك استخدام الكتل أدناه لإنشاء نسخ للزهرة.
 
 ```blocks3
 when flag clicked
@@ -49,11 +49,11 @@ go to (random position v)
 
 --- /task ---
 
-في الوقت الحالي، ستظهر الزهور في جميع أنحاء المنصة، لذا تبدو بعض الزهور وكأنها في السماء. يمكن إصلاح هذا عن طريق التأكد من أن موقع `ص`{:class="block3motion"} للزهور دائما اسفل الصخرة الكبيرة.
+At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-أضف هذه الكتل لمواصلة تحريك الزهور إلى وضع عشوائي، حتى تكون أقل من ` -60 ` {: class = "block3motion"} في المحور ` ص ` {: class = "block3motion"}.
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
 
 ```blocks3
 when I start as a clone
@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-تبدو الأزهار مملة بعض الشيء في الوقت الحالي، لأنها جميعها بنفس الحجم ونفس اللون. يمكننا استخدام كتلة مولد ألأرقام العشوائي لإصلاح هذا الامر.
+The flowers look a little dull, they are all the same size and the same colour. You can use a random number generator block to fix this.
 
 --- task ---
 
@@ -82,9 +82,9 @@ end
 
 --- /task ---
 
-يمكنك الآن تغيير الأعداد قليلاً للحصول على أحجام مختلفة وتأثير الألوان وأعداد الزهور.
+You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-قد ترغب أيضًا في إضافة بعض الأشياء الأخرى إلى المرج الخاص بك. ماذا عن إضافة بعض النحل أو بعض الأرانب العشوائية. أو حتى تغيير الخلفية إلى سماء الليل وإضافة النجوم والكواكب بدلاً من الزهور.
+قد ترغب أيضًا في إضافة بعض الأشياء الأخرى إلى المرج الخاص بك. How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
 
 
 
