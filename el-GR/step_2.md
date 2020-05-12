@@ -10,7 +10,7 @@ You should see a meadow in a forest, with a single large flower in the middle of
 
 --- task ---
 
-Το λουλούδι είναι πολύ μεγάλο, οπότε το πρώτο πράγμα που πρέπει να κάνεις είναι να αλλάξεις το μέγεθός του. Add these blocks to the flower sprite:
+The flower is a little too large, so the first thing to do is to resize it. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ set size to [5] %
 
 --- task ---
 
-Τώρα πρέπει να δημιουργήσεις περισσότερα λουλούδια. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. Μπορεί να ορίσει τον αριθμό των λουλουδιών. Μπορείς να χρησιμοποιήσεις τα παρακάτω μπλοκ για να δημιουργήσεις κλώνους του λουλουδιού σου.
+Now let's generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage, which sets the number of flowers. You can use the blocks below to create clones of your flower:
 
 ```blocks3
 when flag clicked
@@ -34,26 +34,26 @@ set size to [5] %
 
 --- /task ---
 
-Εάν κάνεις κλικ στην πράσινη σημαία, πιθανότατα δεν θα δεις τίποτα να συμβαίνει. Αυτό συμβαίνει επειδή όλοι οι κλώνοι δημιουργούνται στην ίδια θέση με το αρχικό λουλούδι.
+If you click the green flag, you'll probably not notice anything happen. Αυτό συμβαίνει επειδή όλοι οι κλώνοι δημιουργούνται στην ίδια θέση με το αρχικό λουλούδι.
 
 --- task ---
 
-Όταν δημιουργείται ένας κλώνος, πρέπει να πηγαίνει σε τυχαία θέση.
+When a clone is created, it should go to a random position:
 
 ```blocks3
 when I start as a clone
 go to (random position v)
 ```
 
-Μην ξεχάσεις να προσαρμόσεις την μπάρα κύλισης, για να αλλάξεις τον αριθμό των λουλουδιών που θέλεις.
+Don't forget to adjust the slider to change the number of flowers you want.
 
 --- /task ---
 
-At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+At the moment the flowers appear all over the Stage, some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis:
 
 ```blocks3
 when I start as a clone
@@ -68,7 +68,7 @@ The flowers look a little dull, they are all the same size and the same colour. 
 
 --- task ---
 
-Πρόσθεσε αυτά τα μπλοκ για να αλλάξεις το `χρώμα`{:class="block3looks"} και το `μέγεθος`{:class="block3looks"} των λουλουδιών, χρησιμοποιώντας το μπλοκ `τυχαία επιλογή`{:class="block3operators"}.
+Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, and use a `pick random`{:class="block3operators"} block:
 
 ```blocks3
 όταν ξεκινήσω ως κλώνος
@@ -84,7 +84,7 @@ The flowers look a little dull, they are all the same size and the same colour. 
 
 You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-Ίσως θέλεις επίσης να προσθέσεις μερικά ακόμη πράγματα στο λιβάδι σου. How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
+Ίσως θέλεις επίσης να προσθέσεις μερικά ακόμη πράγματα στο λιβάδι σου. How about adding some bees or a few random rabbits? You could even change the backdrop to the night sky, and add stars and planets instead of flowers.
 
 
 
