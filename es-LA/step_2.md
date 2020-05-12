@@ -2,15 +2,15 @@
 
 --- task ---
 
-Abre el proyecto inicial de Scratch en línea en [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} o descárgalo en [rpf.io/p/es/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
+Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/dm-meadow-start){:target="_blank"} or download the starter project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/mindful-meadow-go)
 
 --- /task ---
 
-Deberías ver un prado en un bosque, con una sola flor grande en medio del escenario. También hay un control deslizante en el escenario que eventualmente controlará la cantidad de flores que ves.
+You should see a meadow in a forest, with a single large flower in the middle of the Stage. There's also a slider on the Stage that will eventually control the number of flowers that you see.
 
 --- task ---
 
-La flor está demasiado grande, por lo que lo primero que debes hacer es cambiar su tamaño. Añade estos bloques al objeto flor.
+La flor está demasiado grande, por lo que lo primero que debes hacer es cambiar su tamaño. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ Haz clic en la bandera verde para ver el nuevo tamaño de tu flor.
 
 --- task ---
 
-Ahora necesitamos generar más flores. Está la variable `flores`{: class = "block3variables"} que se ajusta con el control deslizante en el escenario. Te permite fijar el número de flores. Puedes usar los bloques que están a continuación para crear clones de tu flor.
+Ahora necesitamos generar más flores. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. Te permite fijar el número de flores. Puedes usar los bloques que están a continuación para crear clones de tu flor.
 
 ```blocks3
 when flag clicked
@@ -49,11 +49,11 @@ No olvides ajustar el control deslizante, para cambiar la cantidad de flores que
 
 --- /task ---
 
-Por el momento, las flores aparecerán por todo el escenario, así que algunas parecen estar en el cielo. Esto se puede arreglar asegurando que la posición `y`{:class="block3motion"} de las flores esté siempre debajo de la roca grande.
+At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-Añade estos bloques para seguir moviendo las flores a una posición aleatoria, hasta que estén por debajo de `-60`{:class="block3motion"} en el eje `y`{:class="block3motion"}.
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
 
 ```blocks3
 when I start as a clone
@@ -64,7 +64,7 @@ go to (random position v)
 
 --- /task ---
 
-Las flores por ahora se ven un poco aburridas, ya que todas son del mismo tamaño y color. Sin embargo, podemos usar un bloque generador de números aleatorios para arreglar esto.
+The flowers look a little dull, they are all the same size and the same colour. You can use a random number generator block to fix this.
 
 --- task ---
 
@@ -82,9 +82,9 @@ end
 
 --- /task ---
 
-Ahora puedes jugar un poco con los números para obtener diferentes tamaños, efectos de color y número de flores.
+You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-También te podría gustar agregar otras cosas en tu prado. ¿Qué tal agregar algunas abejas o algunos conejos al azar?. O incluso cambiar el fondo a un cielo nocturno y agregar estrellas y planetas en lugar de flores.
+También te podría gustar agregar otras cosas en tu prado. How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
 
 
 
