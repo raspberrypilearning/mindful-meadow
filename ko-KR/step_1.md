@@ -1,6 +1,6 @@
 ## 들어가며
 
-당신은 이 프로젝트에서 지그시 바라보며, 휴식을 취하고 느긋하게 시간을 보낼 수 있는 평화롭고, 꽃이 만발한 초원을 만듭니다.
+In this project you will create a peaceful, flower-strewn meadow, for you to gaze at, relax, and chill.
 
 ### 당신이 만들 작품
 
