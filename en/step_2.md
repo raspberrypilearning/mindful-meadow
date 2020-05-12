@@ -10,7 +10,7 @@ You should see a meadow in a forest, with a single large flower in the middle of
 
 --- task ---
 
-The flower is a little too large, so the first thing to do is resize it. Add these blocks to the flower sprite:
+The flower is a little too large, so the first thing to do is to resize it. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
