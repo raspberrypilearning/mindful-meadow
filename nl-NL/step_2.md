@@ -10,7 +10,7 @@ You should see a meadow in a forest, with a single large flower in the middle of
 
 --- task ---
 
-De bloem is een beetje te groot, dus het eerste wat te doen is het verkleinen ervan. Add these blocks to the flower sprite:
+The flower is a little too large, so the first thing to do is to resize it. Add these blocks to the flower sprite:
 
 ```blocks3
 when flag clicked
@@ -23,7 +23,7 @@ Klik op de groene vlag om de nieuwe grootte van je bloem te zien.
 
 --- task ---
 
-Nu moeten we meer bloemen genereren. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage. Het kan het aantal bloemen instellen. Je kunt de onderstaande blokken gebruiken om klonen van je bloem te maken.
+Now let's generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage, which sets the number of flowers. You can use the blocks below to create clones of your flower:
 
 ```blocks3
 when flag clicked
@@ -34,26 +34,26 @@ set size to [5] %
 
 --- /task ---
 
-Als je op de groene vlag klikt, zie je waarschijnlijk niets gebeuren. Dit komt doordat alle klonen worden gemaakt op dezelfde plaats als de oorspronkelijke bloem.
+If you click the green flag, you'll probably not notice anything happen. Dit komt doordat alle klonen worden gemaakt op dezelfde plaats als de oorspronkelijke bloem.
 
 --- task ---
 
-Wanneer een kloon wordt gemaakt, moet deze naar een willekeurige positie gaan.
+When a clone is created, it should go to a random position:
 
 ```blocks3
 when I start as a clone
 go to (random position v)
 ```
 
-Vergeet niet de schuifregelaar aan te passen om het aantal gewenste bloemen te wijzigen.
+Don't forget to adjust the slider to change the number of flowers you want.
 
 --- /task ---
 
-At the moment, flowers will appear all over the Stage, so some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
+At the moment the flowers appear all over the Stage, some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis.
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis:
 
 ```blocks3
 when I start as a clone
@@ -68,7 +68,7 @@ The flowers look a little dull, they are all the same size and the same colour. 
 
 --- task ---
 
-Voeg deze blokken toe om de `kleur`{:class="block3looks"} en `grootte`{:class="block3looks"} van de bloemen te veranderen, met behulp van een `kies willekeurig`{:class="block3operators"} blok.
+Add these blocks to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers, and use a `pick random`{:class="block3operators"} block:
 
 ```blocks3
 wanneer ik als kloon start
@@ -84,7 +84,7 @@ end
 
 You can now play around with the numbers to get different sizes, color effects, and numbers of flowers.
 
-Misschien wil je ook nog een paar dingen toevoegen aan je weide. How about adding some bees or a few random rabbits? You could even change the backdrop to the night-time sky and add stars and planets instead of flowers.
+Misschien wil je ook nog een paar dingen toevoegen aan je weide. How about adding some bees or a few random rabbits? You could even change the backdrop to the night sky, and add stars and planets instead of flowers.
 
 
 
