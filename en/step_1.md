@@ -18,7 +18,7 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- collapse ---
 ---
-title: Define
+title: Define the challenge
 ---
 
 People find nature relaxing, so the challenge in this project is to create a peacful looking meadow, that you can look at and relax.
