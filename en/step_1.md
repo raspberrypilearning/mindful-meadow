@@ -27,7 +27,7 @@ People find nature relaxing, so the challenge in this project is to create a pea
 
 --- collapse ---
 ---
-title: Discover
+title: Discover what you will need
 ---
 
 ### Hardware
@@ -43,7 +43,7 @@ title: Discover
 --- collapse ---
 ---
 
-title: Design and Decompose
+title: Design and Decompose the project
 
 ---
 
