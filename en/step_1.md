@@ -1,8 +1,50 @@
 ## Introduction
 
-In this project you will create a peacefull, flower strewn meadow, to gaze at, relax and chill.
+--- collapse ---
+---
+title: Define
+---
 
-### What you will make
+People find nature relaxing, so the challenge in this project is to create a peacful looking meadow, that you can look at and relax.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Discover
+---
+
+### Hardware
+
+- A computer
+
+### Software
+
++ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
+
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Design and Decompose
+
+---
+
+
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Design and Decompose
+
+---
+
+You will start with an empty meadow, then fill it with flowers of different sizes and colours. To do this you will need to:
+- Resize your flower
+- Place clones of the flower on the meadow
+- Resize and colour the flowers randomly
 
 --- no-print ---
 
@@ -20,18 +62,6 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-
-### Hardware
-
-- A computer
-
-### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
