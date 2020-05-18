@@ -1,5 +1,21 @@
 ## Introduction
 
+--- no-print ---
+
+Click the green flag and then move the slider to adjust the number of flowers.
+
+<div>
+<iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+--- /no-print ---
+
+--- print-only ---
+
+![Complete project](images/banner.png)
+
+--- /print-only ---
+
 --- collapse ---
 ---
 title: Define
@@ -35,23 +51,6 @@ You will start with an empty meadow, then fill it with flowers of different size
 - Resize your flower
 - Place clones of the flower on the meadow
 - Resize and colour the flowers randomly
-
---- no-print ---
-
-Click the green flag and then move the slider to adjust the number of flowers.
-
-<div>
-<iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
---- /no-print ---
-
---- print-only ---
-
-![Complete project](images/banner.png)
-
---- /print-only ---
-
 
 --- /collapse ---
 
