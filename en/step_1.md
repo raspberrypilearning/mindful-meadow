@@ -31,16 +31,6 @@ title: Design and Decompose
 
 ---
 
-
---- /collapse ---
-
---- collapse ---
----
-
-title: Design and Decompose
-
----
-
 You will start with an empty meadow, then fill it with flowers of different sizes and colours. To do this you will need to:
 - Resize your flower
 - Place clones of the flower on the meadow
