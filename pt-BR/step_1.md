@@ -1,6 +1,6 @@
 ## Introdução
 
-In this project you will create a peaceful, flower-strewn meadow, for you to gaze at, relax, and chill.
+Neste projeto, você vai criar um belo campo repleto de flores, para contemplar e relaxar.
 
 ### O que você vai fazer
 
@@ -22,7 +22,7 @@ Clique na bandeira verde e mova o controle deslizante para ajustar o número de 
 
 --- collapse ---
 ---
-title: What you will need
+title: O que você vai precisar
 ---
 
 ### Hardware
@@ -31,13 +31,13 @@ title: What you will need
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3 ([online](http://rpf.io/scratchon) ou [off-line](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: O que você vai aprender
 ---
 
 - Como usar números aleatórios em seus projetos
@@ -46,11 +46,11 @@ title: What you will learn
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informações adicionais para educadores
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor use a [versão para impressão](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+[Aqui está um link para os recursos deste projeto](http://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
