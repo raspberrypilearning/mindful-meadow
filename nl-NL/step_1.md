@@ -1,6 +1,6 @@
 ## Inleiding
 
-In this project you will create a peaceful, flower-strewn meadow, for you to gaze at, relax, and chill.
+In dit project maak je een vreedzame, met bloemen bezaaide weide, om naar te kijken, te ontspannen en te chillen.
 
 ### Wat ga je maken
 
