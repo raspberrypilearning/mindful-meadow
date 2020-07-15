@@ -13,8 +13,8 @@ Você deve ver um campo em uma floresta, com uma única flor grande no meio do p
 A flor é um pouco grande demais, então a primeira coisa a fazer é redimensioná-la. Adicione este código ao seu ator:
 
 ```blocks3
-quando a bandeira for clicada
-mude o tamanho para [pontuação v] %
+when flag clicked
+set size to [5] %
 ```
 
 Clique na bandeira verde para ver o novo tamanho de sua flor.
@@ -26,10 +26,10 @@ Clique na bandeira verde para ver o novo tamanho de sua flor.
 Agora vamos gerar mais flores. Há uma variável `flores`{:class="block3variables"} que é controlada pelo controle deslizante do palco, que define o número de flores. Você pode usar os blocos abaixo para criar clones da sua flor:
 
 ```blocks3
-quando a bandeira for clicada
-definir tamanho para [5] %
-+ repetir (flores)
-+ criar clone de (eu mesmo v)
+when flag clicked
+set size to [5] %
++ repeat (flores)
++ create clone of (myself v)
 ```
 
 --- /task ---
@@ -41,8 +41,8 @@ Se você clicar na bandeira verde, provavelmente você não verá nada acontecer
 Quando um clone é criado, use este código para fazê-lo ir para uma posição aleatória:
 
 ```blocks3
-quando eu começar como um clone
-vá para (posição aleatória v)
+when I start as a clone
+go to (random position v)
 ```
 
 Não se esqueça de ajustar o controle deslizante para alterar o número de flores que você deseja criar.
@@ -56,10 +56,10 @@ No momento, as flores aparecem por todo o palco - algumas parecem estar no céu.
 Adicione estes blocos para continuar movendo as flores para uma posição aleatória, até que elas estejam abaixo de `-60`{:class="block3motion"} no eixo `y`{:class="block3motion"}:
 
 ```blocks3
-quando eu começar como um clone
-vá para (posição aleatória v)
-+ repita até <(posição y) < (-60)>
-+ vá para (posição aleatória v)
+when I start as a clone
+go to (random position v)
++ repeat until <(y position) < (-60)>
++ go to (random position v)
 ```
 
 --- /task ---
@@ -71,13 +71,13 @@ As flores parecem um pouco sem graça atualmente, já que têm o mesmo tamanho e
 Adicione um bloco `número aleatório`{:class="block3operators"} para mudar a `cor`{:class="block3looks"} e `tamanho`{:class="block3looks"} das flores:
 
 ```blocks3
-quando eu começar como um clone
-vá para (posição aleatória v)
-repita até que <(posição y) < (-60)>
-vá para (posição aleatória v)
-fim
-+ mude (número aleatório entre (-10) e (10)) no tamanho
-+ mude (número aleatório entre (1) e (100)) ao efeito [cor v]
+when I start as a clone
+go to (random position v)
+repeat until <(y position) < (-60)>
+go to (random position v)
+end
++ change size by (pick random (-10) to (10)
++ change (color v) effect by (pick random (1) to (100))
 ```
 
 --- /task ---
