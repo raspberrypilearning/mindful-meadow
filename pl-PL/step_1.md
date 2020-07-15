@@ -1,12 +1,12 @@
-## Introduction
+## Wprowadzenie
 
-In this project you will create a peaceful, flower-strewn meadow, for you to gaze at, relax, and chill.
+W tym projekcie stworzysz spokojną, porośniętą kwiatami łąkę, patrząc na którą będziesz mogła relaksować się i odpocząć.
 
-### What you will make
+### Co stworzysz
 
 --- no-print ---
 
-Click the green flag and then move the slider to adjust the number of flowers.
+Kliknij zieloną flagę, a następnie przesuń suwak, aby ustawić liczbę kwiatów.
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/392040712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -16,41 +16,41 @@ Click the green flag and then move the slider to adjust the number of flowers.
 
 --- print-only ---
 
-![Complete project](images/banner.png)
+![Skończony projekt](images/banner.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Czego będziesz potrzebować
 ---
 
-### Hardware
+### Sprzęt
 
-- A computer
+- Komputer
 
-### Software
+### Oprogramowanie
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3 ([online](http://rpf.io/scratchon) lub [offline](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Czego się nauczysz
 ---
 
-- How to use random numbers in your projects
+- Jak używać liczb losowych w swoich projektach
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Dodatkowe informacje dla nauczycieli
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/p/en/mindful-meadow-get).
+[Oto link do zasobów dla tego projektu](http://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
