@@ -1,11 +1,12 @@
+---
 title: Mindful meadow
 hero_image: images/banner.png
 description: mindful-meadow description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-05-04"
+last_tested: '2020-05-04'
 steps:
-  - title: Introduction
-  - title: Create your meadow
-
+- title: Introduction
+  completion: internal
+- title: Create your meadow

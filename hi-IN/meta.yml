@@ -5,8 +5,8 @@ description: शांतिदायक बगीचा का विवरण
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-05-04"
+last_tested: '2020-05-04'
 steps:
-  - title: परिचय
-  - title: अपना बगीचा बनाएँ
-
+- title: परिचय
+  completion: internal
+- title: अपना बगीचा बनाएँ

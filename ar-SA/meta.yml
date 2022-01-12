@@ -5,8 +5,8 @@ description: وصف المرج الاخضر
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-05-04"
+last_tested: '2020-05-04'
 steps:
-  - title: المقدمة
-  - title: إنشاء المرج الخاص بك
-
+- title: المقدمة
+  completion: internal
+- title: إنشاء المرج الخاص بك

@@ -5,8 +5,8 @@ description: 花さく草原の説明
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-05-04"
+last_tested: '2020-05-04'
 steps:
-  - title: はじめに
-  - title: 花さく草原を作る
-
+- title: はじめに
+  completion: internal
+- title: 花さく草原を作る

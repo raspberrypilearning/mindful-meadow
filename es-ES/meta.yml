@@ -5,8 +5,8 @@ description: descripción de pradera relajante
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-05-04"
+last_tested: '2020-05-04'
 steps:
-  - title: Introducción
-  - title: Crea tu pradera
-
+- title: Introducción
+  completion: internal
+- title: Crea tu pradera
