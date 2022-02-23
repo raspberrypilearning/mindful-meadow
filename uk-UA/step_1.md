@@ -31,7 +31,7 @@ title: Що тобі знадобиться
 
 ### Програмне забезпечення
 
-+ Скретч 3 ([онлайн](http://rpf.io/scratchon) або [офлайн](http://rpf.io/scratchoff))
++ Скретч 3 ([онлайн](https://rpf.io/scratchon) або [офлайн](https://rpf.io/scratchoff))
 
 --- /collapse ---
 
@@ -51,6 +51,6 @@ title: Додаткова інформація для викладачів
 
 Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA/projects/mindful-meadow/print){:target="_blank"}.
 
-[Ось посилання на ресурси для цього проєкту](http://rpf.io/p/uk-UA/mindful-meadow-get).
+[Ось посилання на ресурси для цього проєкту](https://rpf.io/p/uk-UA/mindful-meadow-get).
 
 --- /collapse ---
