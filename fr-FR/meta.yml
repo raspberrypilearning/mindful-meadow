@@ -5,8 +5,8 @@ description: description des prairies-relaxantes
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-05-04"
+last_tested: '2020-05-04'
 steps:
-  - title: Introduction
-  - title: Crée ta prairie
-
+- title: Introduction
+  completion: internal
+- title: Crée ta prairie

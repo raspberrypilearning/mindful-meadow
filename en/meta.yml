@@ -1,10 +1,11 @@
-title: Mindful Meadow
+---
+title: Mindful meadow
 hero_image: images/banner.png
 description: mindful-meadow description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-05-04"
+last_tested: '2020-05-04'
 steps:
   - title: Introduction
   - title: Resize your flower
@@ -14,4 +15,3 @@ steps:
   - title: "Challenge: More sprites or a stary sky"
     challenge: true
   - title: What next ?  
-

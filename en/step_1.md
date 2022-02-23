@@ -1,5 +1,7 @@
 ## Introduction
 
+In this project you will create a peaceful, flower-strewn meadow, for you to gaze at, relax, and chill.
+
 --- no-print ---
 
 Click the green flag and then move the slider to adjust the number of flowers.
