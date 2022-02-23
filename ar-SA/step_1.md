@@ -31,7 +31,7 @@ title: ما ستحتاج إليه
 
 ### البرامج
 
-+ برنامج Scratch 3 (سواء كان [متصل بالإنترنت](http://rpf.io/scratchon) أو [دون إتصال بالإنترنت](http://rpf.io/scratchoff))
++ برنامج Scratch 3 (سواء كان [متصل بالإنترنت](https://rpf.io/scratchon) أو [دون إتصال بالإنترنت](https://rpf.io/scratchoff))
 
 --- /collapse ---
 
@@ -51,6 +51,6 @@ title: معلومات إضافية للمعلمين
 
 إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/ar-SA/projects/mindful-meadow/print){:target="_blank"}.
 
-[إليك رابط إلى مصادر هذا المشروع](http://rpf.io/p/ar-SA/mindful-meadow-get).
+[إليك رابط إلى مصادر هذا المشروع](https://rpf.io/p/ar-SA/mindful-meadow-get).
 
 --- /collapse ---

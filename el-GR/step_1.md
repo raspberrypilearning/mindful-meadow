@@ -31,7 +31,7 @@ title: Τι θα χρειαστείς
 
 ### Λογισμικό
 
-+ Scratch 3 (είτε [σε σύνδεση](http://rpf.io/scratchon) είτε [εκτός σύνδεσης](http://rpf.io/scratchoff))
++ Scratch 3 (είτε [σε σύνδεση](https://rpf.io/scratchon) είτε [εκτός σύνδεσης](https://rpf.io/scratchoff))
 
 --- /collapse ---
 
@@ -51,6 +51,6 @@ title: Πρόσθετες πληροφορίες για εκπαιδευτικο
 
 Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/mindful-meadow/print){:target="_blank"}.
 
-[Ακολουθεί ένας σύνδεσμος για τους πόρους για το έργο αυτό](http://rpf.io/p/el-GR/mindful-meadow-get).
+[Ακολουθεί ένας σύνδεσμος για τους πόρους για το έργο αυτό](https://rpf.io/p/el-GR/mindful-meadow-get).
 
 --- /collapse ---

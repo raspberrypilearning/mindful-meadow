@@ -31,7 +31,7 @@ title: 必要 (ひつよう) なもの
 
 ### ソフトウェア
 
-+ Scratch 3 ([オンライン](http://rpf.io/scratchon)または[オフライン](http://rpf.io/scratchoff))
++ Scratch 3 ([オンライン](https://rpf.io/scratchon)または[オフライン](https://rpf.io/scratchoff))
 
 --- /collapse ---
 
@@ -51,6 +51,6 @@ title: 教育者向けの追加情報
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/ja-JP/projects/mindful-meadow/print){:target="_ blank"}を使用してください。
 
-[このプロジェクトのリソースへのリンクはこちらです](http://rpf.io/p/ja-JP/mindful-meadow-get) 。
+[このプロジェクトのリソースへのリンクはこちらです](https://rpf.io/p/ja-JP/mindful-meadow-get) 。
 
 --- /collapse ---

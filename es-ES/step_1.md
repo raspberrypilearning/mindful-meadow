@@ -31,7 +31,7 @@ title: Lo que necesitarás
 
 ### Software
 
-+ Scratch 3 (ya sea [en línea](http://rpf.io/scratchon) o [sin conexión](http://rpf.io/scratchoff))
++ Scratch 3 (ya sea [en línea](https://rpf.io/scratchon) o [sin conexión](https://rpf.io/scratchoff))
 
 --- /collapse ---
 
@@ -51,6 +51,6 @@ title: Información adicional para educadores
 
 Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](https://projects.raspberrypi.org/es-ES/projects/mindful-meadow/print){:target="_blank"}.
 
-[Aquí hay un enlace a los recursos para este proyecto](http://rpf.io/p/es-ES/mindful-meadow-get).
+[Aquí hay un enlace a los recursos para este proyecto](https://rpf.io/p/es-ES/mindful-meadow-get).
 
 --- /collapse ---
