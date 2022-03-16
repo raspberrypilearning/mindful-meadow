@@ -2,8 +2,6 @@
 
 In dit project maak je een vreedzame, met bloemen bezaaide weide, om naar te kijken, te ontspannen en te chillen.
 
-### Wat ga je maken
-
 --- no-print ---
 
 Klik op de groene vlag en verplaats de schuifregelaar om het aantal bloemen aan te passen.
@@ -22,7 +20,16 @@ Klik op de groene vlag en verplaats de schuifregelaar om het aantal bloemen aan 
 
 --- collapse ---
 ---
-title: Wat heb je nodig
+title: Define the challenge
+---
+
+People find nature relaxing, so the challenge in this project is to create a peacful looking meadow, that you can look at and relax.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Discover what you will need
 ---
 
 ### Hardware
@@ -31,26 +38,40 @@ title: Wat heb je nodig
 
 ### Software
 
-+ Scratch 3 (of [online](http://rpf.io/scratchon) of [offline](http://rpf.io/scratchoff))
++ Scratch 3 (either [online](https://rpf.io/scratchon) or [offline](https://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Wat ga je leren
+
+title: Design and Decompose the project
+
 ---
 
-- Hoe je willekeurige getallen gebruikt in je projecten
+You will start with an empty meadow, then fill it with flowers of different sizes and colours. To do this you will need to:
+- Resize your flower
+- Place clones of the flower on the meadow
+- Resize and colour the flowers randomly
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Aanvullende informatie voor docenten
+title: What you will learn
 ---
 
-Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+- How to use random numbers in your projects
 
-[ Hier is een link naar de bronnen voor dit project ](http://rpf.io/p/en/mindful-meadow-get).
+--- /collapse ---
+
+--- collapse ---
+---
+title: Additional information for educators
+---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+
+[Here is a link to the resources for this project](https://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
