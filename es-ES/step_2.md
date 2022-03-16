@@ -1,4 +1,4 @@
-## Crea tu pradera relajante
+## Resize your flower
 
 --- task ---
 
@@ -17,13 +17,16 @@ when flag clicked
 set size to [5] %
 ```
 
-Haz clic en la bandera verde para ver el nuevo tamaño de tu flor.
+You don't have to use this size, experiment with different `set size to`{:class="block3looks"} numbers until you have a flower size you like.
 
 --- /task ---
 
 --- task ---
 
-Now let's generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage, which sets the number of flowers. You can use the blocks below to create clones of your flower:
+Click the green flag to see the new size of your flower.
+
+--- /task ---
+======= Now let's generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage, which sets the number of flowers. You can use the blocks below to create clones of your flower:
 
 ```blocks3
 when flag clicked
@@ -34,7 +37,7 @@ set size to [5] %
 
 --- /task ---
 
-If you click the green flag, you'll probably not notice anything happen. Esto se debe a que todos los clones se crean en la misma posición que la flor original.
+If you click the green flag, you'll probably not notice anything happen. This is because all the clones are created at the same position as the original flower.
 
 --- task ---
 
@@ -84,9 +87,4 @@ end
 
 You can now play around with the numbers to get different sizes, colour effects, and numbers of flowers.
 
-También puede que te guste añadir algunas cosas más a tu pradera. How about some bees or a few rabbits? You could even change the backdrop to the night sky, and swap your flowers for stars and planets.
-
-
-
-
-
+You might also like to add a few more things to your meadow. How about some bees or a few rabbits? You could even change the backdrop to the night sky, and swap your flowers for stars and planets.
