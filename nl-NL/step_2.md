@@ -1,4 +1,4 @@
-## Creëer je weelderige weide
+## Resize your flower
 
 --- task ---
 
@@ -17,13 +17,16 @@ wanneer op de groene vlag wordt geklikt
 maak grootte [5] %
 ```
 
-Klik op de groene vlag om de nieuwe grootte van je bloem te zien.
+You don't have to use this size, experiment with different `set size to`{:class="block3looks"} numbers until you have a flower size you like.
 
 --- /task ---
 
 --- task ---
 
-Nu gaan we meer bloemen genereren. Er is een `bloemen`{:class="block3variables"} variabele die wordt bestuurd door de schuifregelaar. Je kunt de onderstaande blokken gebruiken om een aantal klonen van je bloem te maken:
+Click the green flag to see the new size of your flower.
+
+--- /task ---
+======= Now let's generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage, which sets the number of flowers. You can use the blocks below to create clones of your flower:
 
 ```blocks3
 wanneer op de groene vlag wordt geklikt
@@ -34,26 +37,26 @@ maak grootte [5] %
 
 --- /task ---
 
-Als je op de groene vlag klikt, zie je waarschijnlijk niets gebeuren. Dit komt doordat alle klonen worden gemaakt op precies dezelfde plaats als de oorspronkelijke bloem.
+If you click the green flag, you'll probably not notice anything happen. This is because all the clones are created at the same position as the original flower.
 
 --- task ---
 
-Wanneer je een kloon maakt, gebruik dit blok, zodat deze kloon naar een willekeurige positie gaat:
+When a clone is created, use this block to make it go to a random position:
 
 ```blocks3
 wanneer ik als een kloon start
 ga naar (willekeurige positie v)
 ```
 
-Vergeet niet de schuifregelaar aan te passen om het gewenste aantal bloemen te wijzigen.
+Don't forget to adjust the slider to change the number of flowers that you want.
 
 --- /task ---
 
-Op dit moment verschijnen er bloemen over het hele speelveld. Dus sommige ervan zullen waarschijnlijk in de lucht hangen. Dit kan worden opgelost door ervoor te zorgen dat de `y`{:class="block3motion"} positie van de bloemen altijd lager is dan de grote rots.
+At the moment, the flowers appear all over the Stage — some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-Voeg deze blokken toe om de bloemen naar een willekeurige positie te laten bewegen, zodanig dat ze lager zijn dan `-60`{:class="block3motion"} op de `y`{:class="block3motion"}-as:
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis:
 
 ```blocks3
 wanneer ik als kloon start
@@ -64,11 +67,11 @@ ga naar (willekeurige positie v)
 
 --- /task ---
 
-Al die bloemen zien er nu een beetje saai uit, omdat ze allemaal dezelfde grootte en dezelfde kleur hebben. Je kunt een functieblok voor willekeurige getallen gebruiken om dit op te lossen.
+The flowers look a little dull, they are all the same size and the same colour. You can use a random number generator block to fix this.
 
 --- task ---
 
-Voeg een `willekeurig getal`{:class="block3operators"} blok toe om de `kleur`{:class="block3looks"} en `grootte`{:class="block3looks"} van de bloemen te veranderen:
+Add a `pick random`{:class="block3operators"} block to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers:
 
 ```blocks3
 wanneer ik als kloon start
@@ -82,11 +85,6 @@ end
 
 --- /task ---
 
-Je kunt nu met de getallen spelen om verschillende afmetingen, kleureffecten en aantallen bloemen te krijgen.
+You can now play around with the numbers to get different sizes, colour effects, and numbers of flowers.
 
-Misschien wil je ook nog een paar andere dingen toevoegen aan je weide? Wat dacht je van enkele bijen of een paar konijnen? Je kunt zelfs de achtergrond veranderen in een nachtelijke hemel en je bloemen te veranderen in sterren en planeten.
-
-
-
-
-
+You might also like to add a few more things to your meadow. How about some bees or a few rabbits? You could even change the backdrop to the night sky, and swap your flowers for stars and planets.
