@@ -2,8 +2,6 @@
 
 In this project you will create a peaceful, flower-strewn meadow, for you to gaze at, relax, and chill.
 
-### 당신이 만들 작품
-
 --- no-print ---
 
 초록색 깃발을 클릭한 뒤, 꽃들의 수를 바꾸기 위해 슬라이더로 이동하세요.
@@ -22,35 +20,58 @@ In this project you will create a peaceful, flower-strewn meadow, for you to gaz
 
 --- collapse ---
 ---
-title: 준비물
+title: Define the challenge
 ---
 
-### 하드웨어
+People find nature relaxing, so the challenge in this project is to create a peacful looking meadow, that you can look at and relax.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Discover what you will need
+---
+
+### Hardware
 
 - 컴퓨터
 
-### 소프트웨어
+### Software
 
-+ 스크래치 3 ([온라인](http://rpf.io/scratchon) 또는 [오프라인](http://rpf.io/scratchoff))
-
---- /collapse ---
-
---- collapse ---
----
-title: 학습 목표
----
-
-- 프로젝트에서 난수를 사용하는 방법
++ Scratch 3 (either [online](https://rpf.io/scratchon) or [offline](https://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: 교육자를 위한 추가 정보
+
+title: Design and Decompose the project
+
 ---
 
-이 프로젝트를 인쇄하려면, [프린트용 버전](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}을 사용하십시오.
+You will start with an empty meadow, then fill it with flowers of different sizes and colours. To do this you will need to:
+- Resize your flower
+- Place clones of the flower on the meadow
+- Resize and colour the flowers randomly
 
-[이곳은 프로젝트에 필요한 자료를 얻을 수 있는 링크입니다.](http://rpf.io/p/en/mindful-meadow-get)
+--- /collapse ---
+
+--- collapse ---
+---
+title: What you will learn
+---
+
+- How to use random numbers in your projects
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Additional information for educators
+---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+
+[Here is a link to the resources for this project](https://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
