@@ -1,4 +1,4 @@
-## Crie o seu campo florido
+## Resize your flower
 
 --- task ---
 
@@ -17,13 +17,16 @@ quando a bandeira for clicada
 mude o tamanho para [pontuação v] %
 ```
 
-Clique na bandeira verde para ver o novo tamanho de sua flor.
+You don't have to use this size, experiment with different `set size to`{:class="block3looks"} numbers until you have a flower size you like.
 
 --- /task ---
 
 --- task ---
 
-Agora vamos gerar mais flores. Há uma variável ` flores ` {: class = "block3variables"} que é controlada pelo controle deslizante do palco, que define o número de flores. Você pode usar os blocos abaixo para criar clones da sua flor:
+Click the green flag to see the new size of your flower.
+
+--- /task ---
+======= Now let's generate more flowers. There is a `flowers`{:class="block3variables"} variable that is controlled by the slider on the Stage, which sets the number of flowers. You can use the blocks below to create clones of your flower:
 
 ```blocks3
 quando a bandeira for clicada
@@ -34,26 +37,26 @@ definir tamanho para [5] %
 
 --- /task ---
 
-Se você clicar na bandeira verde, provavelmente você não verá nada acontecer. Isso porque todos os clones são criados na mesma posição que a flor original.
+If you click the green flag, you'll probably not notice anything happen. This is because all the clones are created at the same position as the original flower.
 
 --- task ---
 
-Quando um clone é criado, use este código para fazê-lo ir para uma posição aleatória:
+When a clone is created, use this block to make it go to a random position:
 
 ```blocks3
 quando eu começar como um clone
 vá para (posição aleatória v)
 ```
 
-Não se esqueça de ajustar o controle deslizante para alterar o número de flores que você deseja criar.
+Don't forget to adjust the slider to change the number of flowers that you want.
 
 --- /task ---
 
-No momento, as flores aparecem por todo o palco - algumas parecem estar no céu. Isto pode ser corrigido certificando-se de que a posição `y`{:class="block3motion"} das flores esteja sempre abaixo da grande rocha.
+At the moment, the flowers appear all over the Stage — some look like they're in the sky. To fix this, make sure that the `y`{:class="block3motion"} position of the flowers is always below the big rock.
 
 --- task ---
 
-Adicione estes blocos para continuar movendo as flores para uma posição aleatória, até que elas estejam abaixo de `-60`{:class="block3motion"} no eixo `y`{:class="block3motion"}:
+Add these blocks to move the flowers to a random position, until they are below `-60`{:class="block3motion"} on the `y`{:class="block3motion"} axis:
 
 ```blocks3
 quando eu começar como um clone
@@ -64,11 +67,11 @@ vá para (posição aleatória v)
 
 --- /task ---
 
-As flores parecem um pouco sem graça atualmente, já que têm o mesmo tamanho e a mesma cor. Você pode usar um código gerador de números aleatórios para corrigir isso.
+The flowers look a little dull, they are all the same size and the same colour. You can use a random number generator block to fix this.
 
 --- task ---
 
-Adicione um bloco `pick random`{:class="block3operators"} para mudar a `color`{:class="block3looks"} e `size`{:class="block3looks"} das flores:
+Add a `pick random`{:class="block3operators"} block to change the `color`{:class="block3looks"} and `size`{:class="block3looks"} of the flowers:
 
 ```blocks3
 quando eu começar como um clone
@@ -82,11 +85,6 @@ fim
 
 --- /task ---
 
-Agora você pode brincar um pouco com os números para obter diferentes tamanhos, efeitos de cor e números de flores.
+You can now play around with the numbers to get different sizes, colour effects, and numbers of flowers.
 
-Você também pode adicionar mais algumas coisas ao seu campo. Que tal adicionar algumas abelhas ou alguns coelhos? Você pode até mudar o cenário para o céu noturno e trocar suas flores por estrelas e planetas.
-
-
-
-
-
+You might also like to add a few more things to your meadow. How about some bees or a few rabbits? You could even change the backdrop to the night sky, and swap your flowers for stars and planets.
