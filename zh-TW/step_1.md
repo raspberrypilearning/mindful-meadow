@@ -1,8 +1,6 @@
 ## 介紹
 
-In this project you will create a peaceful, flower-strewn meadow, for you to gaze at, relax, and chill.
-
-### 你將會做出
+你將在這個專案中，建造一個讓你放鬆冷靜的百花爭艷又幽靜綠地。
 
 --- no-print ---
 
@@ -22,35 +20,58 @@ In this project you will create a peaceful, flower-strewn meadow, for you to gaz
 
 --- collapse ---
 ---
-title: 你會需要用到
+title: Define the challenge
 ---
 
-### 硬體
+People find nature relaxing, so the challenge in this project is to create a peacful looking meadow, that you can look at and relax.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Discover what you will need
+---
+
+### Hardware
 
 - 一台電腦
 
-### 軟體
+### Software
 
-+ Scratch 3（[線上版](http://rpf.io/scratchon)或[離線版](http://rpf.io/scratchoff)）
-
---- /collapse ---
-
---- collapse ---
----
-title: 你會學到
----
-
-- 如何在項目中使用隨機數
++ Scratch 3 (either [online](https://rpf.io/scratchon) or [offline](https://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: 給教師的其它資訊
+
+title: Design and Decompose the project
+
 ---
 
-如果你需要列印此專案，請使用[友善列印](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}。
+You will start with an empty meadow, then fill it with flowers of different sizes and colours. To do this you will need to:
+- Resize your flower
+- Place clones of the flower on the meadow
+- Resize and colour the flowers randomly
 
-[這裡是是本專案的資源連結。](http://rpf.io/p/en/mindful-meadow-get) 。
+--- /collapse ---
+
+--- collapse ---
+---
+title: What you will learn
+---
+
+- How to use random numbers in your projects
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Additional information for educators
+---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/mindful-meadow/print){:target="_blank"}.
+
+[Here is a link to the resources for this project](https://rpf.io/p/en/mindful-meadow-get).
 
 --- /collapse ---
